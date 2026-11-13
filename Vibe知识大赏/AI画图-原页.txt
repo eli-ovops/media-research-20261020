@@ -1,0 +1,484 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 14":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "14"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: vibe知识大赏什么意思
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:06
+- generic: /
+- generic: 03:46
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link "作者声明：个人观点，仅供参考":
+  - /url: undefined
+  - generic: 作者声明：个人观点，仅供参考
+- generic: 章节要点
+- generic: AI如何生成图像的原理，包括流形假设、早期GAN的困境、扩散模型的突破以及文生图的实现。扩散模型通过正向扩散和反向扩散，从噪声生成逼真图片，而文生图则通过文本编码器将提示词变成向量，引导网络生成特定的图片。
+- generic: 00:00
+- generic: 引言
+- generic: 00:18
+- generic: 流形假设
+- paragraph: 图像在高维空间中依附在低维流形上，ImageNet图片的内在维度约为几十维。
+- generic: 00:32
+- generic: 早期GAN的困境
+- paragraph: 早期GAN难以训练，因为两个低维流形在高维空间中几乎不可能重叠，导致KL散度无法计算有效值。
+- generic: 01:27
+- generic: 扩散模型的突破
+- paragraph: 扩散模型借用布朗运动，通过正向扩散和反向扩散，从噪声生成逼真图片。
+- generic: 03:30
+- generic: 文生图的实现
+- paragraph: 文生图通过文本编码器将提示词变成向量，引导网络生成特定的图片。
+- generic: 内容由AI生成
+- 'heading "第1集 | Vibe知识大赏｜ AI 到底怎么画出一张图? #vibe知识大赏 #抖音前沿科技首发计划 #抖音精选App知识充电站 @抖音科技" [level=1]':
+  - text: 第1集 |
+  - generic: Vibe知识大赏｜ AI 到底怎么画出一张图?
+  - link "#vibe知识大赏":
+    - /url: //www.douyin.com/search/vibe%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%B5%8F?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#抖音前沿科技首发计划":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%E9%A6%96%E5%8F%91%E8%AE%A1%E5%88%92?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#抖音精选App知识充电站":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%B2%BE%E9%80%89App%E7%9F%A5%E8%AF%86%E5%85%85%E7%94%B5%E7%AB%99?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "@抖音科技":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAsZ9oDjz_OpRs0YryC7qOWZYCFCO9afCZy_O7W2grmUY
+- generic: 2.9万
+- generic: "528"
+- generic: "9704"
+- generic: "4378"
+- generic: 举报
+- generic: 发布时间：2026-10-09 20:24
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "流形假设":
+  - /url: //www.douyin.com/search/%E6%B5%81%E5%BD%A2%E5%81%87%E8%AE%BE?aweme_id=7694642902038859043&enter_from=video_detail&gid=7694642902038859043&source=comment_related_search
+  - generic: 流形假设
+- link "tttlande":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAzdE6Z-e3kTHBaLVzn2ptgUY6imshDzCdZnq4z8xMruTngOo_ENFvB7dWRC4ne73g
+  - generic: tttlande
+- generic: ...
+- generic: 其实就是神经网络有一个学习力上限，如果从零开始抽卡图片，太难了几率太小，抽不到不好训练
+- text: 但是从一个模糊的打了水印的图，复原成一个更清晰的图，这个时候需要ai猜的就很少了，这种情况下，可以直接训练ai去拟合标签，标签本身是我们正向加噪声时候预先留存的上一步的图，
+- img "[耶]"
+- generic: 1周前·上海
+- paragraph:
+  - generic: "26"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "芝士鼠鼠":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjPXkR9xPoPz_AgFAlP7hPX5-4cwTH1gJi6hIY4fHb68Z-WY_tGvApoJ5Br6tuGmy
+  - generic: 芝士鼠鼠
+- generic: ...
+- link "随机微分方程":
+  - /url: //www.douyin.com/search/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B?aweme_id=7694642902038859043&enter_from=video_detail&gid=7694642902038859043&source=comment_named_entity_search
+  - text: 随机微分方程
+- generic: ，sde
+- generic: 1周前·辽宁
+- paragraph:
+  - generic: "170"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "浙大猫学长 作者":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA_gr4GldpYARx-VmGCOQrqhgxR4RNkMctuViE-QegVCvByxWkIHDaESG9tKagAY_H
+  - generic: 浙大猫学长
+  - generic: 作者
+- generic: ...
+- text: 天才
+- img "[看]"
+- generic: 1周前·浙江
+- paragraph:
+  - generic: "66"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开3条回复":
+  - generic: 展开3条回复
+- link "肥肥胖胖是太阳":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAWWNa4PRxVszNITK5RT8xFewv0h8MSnlS-8-wvnxBzRli9ZXSXqUYJfnBT37hum1W
+  - generic: 肥肥胖胖是太阳
+- generic: ...
+- text: 后来还有流匹配模型以及今年新出的漂移模型
+- img "[看]"
+- generic: 1周前·黑龙江
+- paragraph:
+  - generic: "2"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "柴迅先生":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAYQj0eBD3P1f0MdWPG3jSLrn0UZNloemRziOu2fkWC-tUfH5H9hS7D1gO_4dX1HGh
+  - generic: 柴迅先生
+- generic: ...
+- generic: 这辈子都不会忘掉这个模型，北大某院的夏令营直博面试，过了淘汰率很高的笔试，面试展示讲的就是这个模型的原论文，如果当年对变分法再熟悉一点，抗压再强一点，能快速导出来先后验分布，也许就能早早拿到offer不用候补了，也许就是另一种人生了
+- generic: 1天前·北京
+- paragraph:
+  - generic: "9"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开2条回复":
+  - generic: 展开2条回复
+- link "Maxipain":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAnEPHDLN8KR8iSP0ybLk5yLqGxmW3-8Ev5y2fYCaGQ-0
+  - generic: Maxipain
+- generic: ...
+- text: 这才是高级教程
+- img "[发呆]"
+- text: 我完全听不懂了，我纯文科生
+- img "[流泪]"
+- img "[感谢]"
+- generic: 1周前·浙江
+- paragraph:
+  - generic: "15"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- generic: 加载中
+- link "浙大猫学长":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA_gr4GldpYARx-VmGCOQrqhgxR4RNkMctuViE-QegVCvByxWkIHDaESG9tKagAY_H
+  - img "浙大猫学长"
+- link "浙大猫学长":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA_gr4GldpYARx-VmGCOQrqhgxR4RNkMctuViE-QegVCvByxWkIHDaESG9tKagAY_H
+  - generic: 浙大猫学长
+- paragraph: 粉丝5.9万获赞35.8万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "合集 · 3分钟讲透AI模型" [level=2]
+- list:
+  - link "合集 · 3分钟讲透AI模型第1集 播放中":
+    - /url: //www.douyin.com/video/7694642902038859043
+    - img "合集 · 3分钟讲透AI模型第1集"
+    - generic: 播放中
+  - 'heading "第1集 | Vibe知识大赏｜ AI 到底怎么画出一张图? #vibe知识大赏 #抖音前沿科技首发计划 #抖音精选App知识充电站 @抖音科技" [level=3]':
+    - 'link "第1集 | Vibe知识大赏｜ AI 到底怎么画出一张图? #vibe知识大赏 #抖音前沿科技首发计划 #抖音精选App知识充电站 @抖音科技"':
+      - /url: //www.douyin.com/video/7694642902038859043
+      - generic: "第1集 | Vibe知识大赏｜ AI 到底怎么画出一张图? #vibe知识大赏 #抖音前沿科技首发计划 #抖音精选App知识充电站 @抖音科技"
+  - text: 2.9万
+  - link "合集 · 3分钟讲透AI模型第2集 03:58":
+    - /url: //www.douyin.com/video/7696854989146164543
+    - img "合集 · 3分钟讲透AI模型第2集"
+    - generic: 03:58
+  - 'heading "第2集 | Vibe知识大赏｜用神经网络，临摹王羲之 #抖音精选App #创作阶梯计划 #vibe知识大赏 #抖音前沿科技首发计划 #流匹配" [level=3]':
+    - 'link "第2集 | Vibe知识大赏｜用神经网络，临摹王羲之 #抖音精选App #创作阶梯计划 #vibe知识大赏 #抖音前沿科技首发计划 #流匹配"':
+      - /url: //www.douyin.com/video/7696854989146164543
+      - generic: "第2集 | Vibe知识大赏｜用神经网络，临摹王羲之 #抖音精选App #创作阶梯计划 #vibe知识大赏 #抖音前沿科技首发计划 #流匹配"
+  - text: 1.9万
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "Opus5.5只需略微出手 这条 61 秒的视频，1830 帧画面，每一帧都是 Opus 5.5 用代码\"画\"出来的。 科普动画、数学讲解、产品发布会、手绘白板、赛博故障、水墨国风、数据新闻、像素游戏、编程教程、3D 渲染、竖屏短视频…… 19 种风格，0 个视频生成模型。 连背景音乐和卡点音效，也是代码合成的。 你最想让它做哪种风格的视频？ #AI #Claude #Opus #动画 #创意视频 01:01"':
+    - /url: //www.douyin.com/video/7689897956208189583
+    - 'img "Opus5.5只需略微出手 这条 61 秒的视频，1830 帧画面，每一帧都是 Opus 5.5 用代码\"画\"出来的。 科普动画、数学讲解、产品发布会、手绘白板、赛博故障、水墨国风、数据新闻、像素游戏、编程教程、3D 渲染、竖屏短视频…… 19 种风格，0 个视频生成模型。 连背景音乐和卡点音效，也是代码合成的。 你最想让它做哪种风格的视频？ #AI #Claude #Opus #动画 #创意视频"'
+    - generic: 01:01
+  - 'heading "Opus5.5只需略微出手 这条 61 秒的视频，1830 帧画面，每一帧都是 Opus 5.5 用代码\"画\"出来的。 科普动画、数学讲解、产品发布会、手绘白板、赛博故障、水墨国风、数据新闻、像素游戏、编程教程、3D 渲染、竖屏短视频…… 19 种风格，0 个视频生成模型。 连背景音乐和卡点音效，也是代码合成的。 你最想让它做哪种风格的视频？ #AI #Claude #Opus #动画 #创意视频" [level=3]':
+    - 'link "Opus5.5只需略微出手 这条 61 秒的视频，1830 帧画面，每一帧都是 Opus 5.5 用代码\"画\"出来的。 科普动画、数学讲解、产品发布会、手绘白板、赛博故障、水墨国风、数据新闻、像素游戏、编程教程、3D 渲染、竖屏短视频…… 19 种风格，0 个视频生成模型。 连背景音乐和卡点音效，也是代码合成的。 你最想让它做哪种风格的视频？ #AI #Claude #Opus #动画 #创意视频"':
+      - /url: //www.douyin.com/video/7689897956208189583
+      - generic: Opus5.5只需略微出手 这条 61 秒的视频，1830 帧画面，每一帧都是 Opus 5.5 用代码"画"出来的。
+      - generic: 科普动画、数学讲解、产品发布会、手绘白板、赛博故障、水墨国风、数据新闻、像素游戏、编程教程、3D 渲染、竖屏短视频……
+      - generic: 19 种风格，0 个视频生成模型。
+      - generic: 连背景音乐和卡点音效，也是代码合成的。
+      - generic: 你最想让它做哪种风格的视频？
+      - generic: "#AI #Claude #Opus #动画 #创意视频"
+  - text: 1.8万
+  - link "Mixx.ftr":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAAO_fh834yIMAQGR2gMKHEWLZbwmItd_rnAkF4rNTT1oddrnkp3BcvJynwNb5js_w?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: Mixx.ftr
+  - 'link "Vibe知识大赏｜2026诺奖·手性 2026年诺贝尔化学奖揭晓。Henri B. Kagan 与 Kenso Soai 两位科学家共同获奖，以表彰他们关于不对称有机合成中非线性效应与自催化的发现。 许多生命分子都存在两个互为镜像的版本，就像人的左手和右手。它们看起来几乎一样，却可能拥有完全不同的性质。更奇怪的是，生命中的许多重要分子，却几乎只选择其中一种。 Kagan 与 Soai 的研究揭示了化学反应如何打破这种“左右对称”，让分子朝着特定的一侧发展。这些发现奠定了现代不对称合成的重要基础，也对药物分子的精准制造具有重要意义。 为什么生命几乎只选择分子的一只“手”？这个困扰化学界一个多世纪的问题，正在被一点点揭开。 @抖音科技 @抖音精选App官方账号 #2026诺贝尔化学奖揭晓 #vibe知识大赏 #抖音精选app征稿中 #ai新星计划 #抖音精选app陪你看诺奖 02:27"':
+    - /url: //www.douyin.com/video/7693880461517615526
+    - 'img "Vibe知识大赏｜2026诺奖·手性 2026年诺贝尔化学奖揭晓。Henri B. Kagan 与 Kenso Soai 两位科学家共同获奖，以表彰他们关于不对称有机合成中非线性效应与自催化的发现。 许多生命分子都存在两个互为镜像的版本，就像人的左手和右手。它们看起来几乎一样，却可能拥有完全不同的性质。更奇怪的是，生命中的许多重要分子，却几乎只选择其中一种。 Kagan 与 Soai 的研究揭示了化学反应如何打破这种“左右对称”，让分子朝着特定的一侧发展。这些发现奠定了现代不对称合成的重要基础，也对药物分子的精准制造具有重要意义。 为什么生命几乎只选择分子的一只“手”？这个困扰化学界一个多世纪的问题，正在被一点点揭开。 @抖音科技 @抖音精选App官方账号 #2026诺贝尔化学奖揭晓 #vibe知识大赏 #抖音精选app征稿中 #ai新星计划 #抖音精选app陪你看诺奖"'
+    - generic: 02:27
+  - 'heading "Vibe知识大赏｜2026诺奖·手性 2026年诺贝尔化学奖揭晓。Henri B. Kagan 与 Kenso Soai 两位科学家共同获奖，以表彰他们关于不对称有机合成中非线性效应与自催化的发现。 许多生命分子都存在两个互为镜像的版本，就像人的左手和右手。它们看起来几乎一样，却可能拥有完全不同的性质。更奇怪的是，生命中的许多重要分子，却几乎只选择其中一种。 Kagan 与 Soai 的研究揭示了化学反应如何打破这种“左右对称”，让分子朝着特定的一侧发展。这些发现奠定了现代不对称合成的重要基础，也对药物分子的精准制造具有重要意义。 为什么生命几乎只选择分子的一只“手”？这个困扰化学界一个多世纪的问题，正在被一点点揭开。 @抖音科技 @抖音精选App官方账号 #2026诺贝尔化学奖揭晓 #vibe知识大赏 #抖音精选app征稿中 #ai新星计划 #抖音精选app陪你看诺奖" [level=3]':
+    - 'link "Vibe知识大赏｜2026诺奖·手性 2026年诺贝尔化学奖揭晓。Henri B. Kagan 与 Kenso Soai 两位科学家共同获奖，以表彰他们关于不对称有机合成中非线性效应与自催化的发现。 许多生命分子都存在两个互为镜像的版本，就像人的左手和右手。它们看起来几乎一样，却可能拥有完全不同的性质。更奇怪的是，生命中的许多重要分子，却几乎只选择其中一种。 Kagan 与 Soai 的研究揭示了化学反应如何打破这种“左右对称”，让分子朝着特定的一侧发展。这些发现奠定了现代不对称合成的重要基础，也对药物分子的精准制造具有重要意义。 为什么生命几乎只选择分子的一只“手”？这个困扰化学界一个多世纪的问题，正在被一点点揭开。 @抖音科技 @抖音精选App官方账号 #2026诺贝尔化学奖揭晓 #vibe知识大赏 #抖音精选app征稿中 #ai新星计划 #抖音精选app陪你看诺奖"':
+      - /url: //www.douyin.com/video/7693880461517615526
+      - generic: Vibe知识大赏｜2026诺奖·手性 2026年诺贝尔化学奖揭晓。Henri B. Kagan 与 Kenso Soai 两位科学家共同获奖，以表彰他们关于不对称有机合成中非线性效应与自催化的发现。
+      - generic: 许多生命分子都存在两个互为镜像的版本，就像人的左手和右手。它们看起来几乎一样，却可能拥有完全不同的性质。更奇怪的是，生命中的许多重要分子，却几乎只选择其中一种。
+      - generic: Kagan 与 Soai 的研究揭示了化学反应如何打破这种“左右对称”，让分子朝着特定的一侧发展。这些发现奠定了现代不对称合成的重要基础，也对药物分子的精准制造具有重要意义。
+      - generic: 为什么生命几乎只选择分子的一只“手”？这个困扰化学界一个多世纪的问题，正在被一点点揭开。
+      - generic: "@抖音科技 @抖音精选App官方账号 #2026诺贝尔化学奖揭晓 #vibe知识大赏 #抖音精选app征稿中 #ai新星计划 #抖音精选app陪你看诺奖"
+  - text: 12.5万
+  - link "无足鸟":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAqHfuQbvKIaXAMF-En-LMAnKH7EQZddIjnxtWjGXK2HnLKDBHF_5u3XJxyoWGEb7i?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 无足鸟
+  - 'link "本视频由opus5.5制作#claude #vibe知识大赏 01:02"':
+    - /url: //www.douyin.com/video/7689710282470143653
+    - 'img "本视频由opus5.5制作#claude #vibe知识大赏"'
+    - generic: 01:02
+  - 'heading "本视频由opus5.5制作#claude #vibe知识大赏" [level=3]':
+    - 'link "本视频由opus5.5制作#claude #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7689710282470143653
+      - generic: "本视频由opus5.5制作#claude #vibe知识大赏"
+  - text: 9.7万
+  - link "Immanuelle":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAQfDGoR5ivx6_gE9XFuB6R9XXONzp-9yBlFBPl6mmgJY?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: Immanuelle
+  - 'link "【vibe知识大赏】诺奖与K线·规律篇 K线背后的数学 #vibe知识大赏 #交易认知破局 #Claude #AIGC 02:06"':
+    - /url: //www.douyin.com/video/7691894559067910566
+    - 'img "【vibe知识大赏】诺奖与K线·规律篇 K线背后的数学 #vibe知识大赏 #交易认知破局 #Claude #AIGC"'
+    - generic: 02:06
+  - 'heading "【vibe知识大赏】诺奖与K线·规律篇 K线背后的数学 #vibe知识大赏 #交易认知破局 #Claude #AIGC" [level=3]':
+    - 'link "【vibe知识大赏】诺奖与K线·规律篇 K线背后的数学 #vibe知识大赏 #交易认知破局 #Claude #AIGC"':
+      - /url: //www.douyin.com/video/7691894559067910566
+      - generic: "【vibe知识大赏】诺奖与K线·规律篇 K线背后的数学 #vibe知识大赏 #交易认知破局 #Claude #AIGC"
+  - text: 1.2万
+  - link "leyan":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAwbW6LlZ3bm4xzYoPerPWRKyzl0uVC_DOLY9RFrL94hWaoZCcz4CSUsX03x3NyGj7?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: leyan
+  - 'link "海水变淡水，竟要过这么多“关卡”！ #科普 #海水淡化 #涨知识 #原理 #抖音精选App知识充电站 01:36"':
+    - /url: //www.douyin.com/video/7687118095974026532
+    - 'img "海水变淡水，竟要过这么多“关卡”！ #科普 #海水淡化 #涨知识 #原理 #抖音精选App知识充电站"'
+    - generic: 01:36
+  - 'heading "海水变淡水，竟要过这么多“关卡”！ #科普 #海水淡化 #涨知识 #原理 #抖音精选App知识充电站" [level=3]':
+    - 'link "海水变淡水，竟要过这么多“关卡”！ #科普 #海水淡化 #涨知识 #原理 #抖音精选App知识充电站"':
+      - /url: //www.douyin.com/video/7687118095974026532
+      - generic: "海水变淡水，竟要过这么多“关卡”！ #科普 #海水淡化 #涨知识 #原理 #抖音精选App知识充电站"
+  - text: "1636"
+  - link "机巧秘录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAKeG7Oe8Ic7I3yJIzHxEW5UssxR2EufxV8SQqHLHFnyveA5QHdpJrKJrKHdM96gP6?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 机巧秘录
+  - 'link "Vibe知识大赏｜《局部最优解》 #vibe知识大赏 #抖音前沿科技首发计划 #AI新星计划 #Claude #opus5.5 02:39"':
+    - /url: //www.douyin.com/video/7693192019912559881
+    - 'img "Vibe知识大赏｜《局部最优解》 #vibe知识大赏 #抖音前沿科技首发计划 #AI新星计划 #Claude #opus5.5"'
+    - generic: 02:39
+  - 'heading "Vibe知识大赏｜《局部最优解》 #vibe知识大赏 #抖音前沿科技首发计划 #AI新星计划 #Claude #opus5.5" [level=3]':
+    - 'link "Vibe知识大赏｜《局部最优解》 #vibe知识大赏 #抖音前沿科技首发计划 #AI新星计划 #Claude #opus5.5"':
+      - /url: //www.douyin.com/video/7693192019912559881
+      - generic: "Vibe知识大赏｜《局部最优解》 #vibe知识大赏 #抖音前沿科技首发计划 #AI新星计划 #Claude #opus5.5"
+  - text: 1.5万
+  - link "汤姆CC本C":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAsq1lvWQcZWk_d7WzgIyMN18-mqGnCltnuANOtlWNz0c?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 汤姆CC本C
+  - 'link "连设计全家桶都被AI逆向工程了，一个开源项目掀了大厂的桌 #人工智能 #热点追踪 #科技与狠活 #设计软件 #效率工具 01:45"':
+    - /url: //www.douyin.com/video/7694509918119939369
+    - 'img "连设计全家桶都被AI逆向工程了，一个开源项目掀了大厂的桌 #人工智能 #热点追踪 #科技与狠活 #设计软件 #效率工具"'
+    - generic: 01:45
+  - 'heading "连设计全家桶都被AI逆向工程了，一个开源项目掀了大厂的桌 #人工智能 #热点追踪 #科技与狠活 #设计软件 #效率工具" [level=3]':
+    - 'link "连设计全家桶都被AI逆向工程了，一个开源项目掀了大厂的桌 #人工智能 #热点追踪 #科技与狠活 #设计软件 #效率工具"':
+      - /url: //www.douyin.com/video/7694509918119939369
+      - generic: "连设计全家桶都被AI逆向工程了，一个开源项目掀了大厂的桌 #人工智能 #热点追踪 #科技与狠活 #设计软件 #效率工具"
+  - text: "1621"
+  - link "赛文乔伊":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAB92s1iYJ6Kr4B6RpP3zenR2DywmkuBBX-RKYLExuNHk?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 赛文乔伊
+  - 'link "开源，是这个时代最快的迭代方式 本视频由#deepseekv4 制作#vibe知识大赏 #deepseek 02:00"':
+    - /url: //www.douyin.com/video/7691245282978483889
+    - 'img "开源，是这个时代最快的迭代方式 本视频由#deepseekv4 制作#vibe知识大赏 #deepseek"'
+    - generic: 02:00
+  - 'heading "开源，是这个时代最快的迭代方式 本视频由#deepseekv4 制作#vibe知识大赏 #deepseek" [level=3]':
+    - 'link "开源，是这个时代最快的迭代方式 本视频由#deepseekv4 制作#vibe知识大赏 #deepseek"':
+      - /url: //www.douyin.com/video/7691245282978483889
+      - generic: "开源，是这个时代最快的迭代方式 本视频由#deepseekv4 制作#vibe知识大赏 #deepseek"
+  - text: "335"
+  - link "Stark":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAhlsfg-zljEIkdQIHQgJ82Ipb7VGkeafNldk3KUsM1do?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: Stark
+  - 'link "Vibe知识大赏｜荒诞主义重制版 一起理解文学史上最伟大的开头 必须想象：西西弗斯是幸福的 #vibe知识大赏 #加缪 #荒诞主义 #局外人 #哲学 02:02"':
+    - /url: //www.douyin.com/video/7693005771819692534
+    - 'img "Vibe知识大赏｜荒诞主义重制版 一起理解文学史上最伟大的开头 必须想象：西西弗斯是幸福的 #vibe知识大赏 #加缪 #荒诞主义 #局外人 #哲学"'
+    - generic: 02:02
+  - 'heading "Vibe知识大赏｜荒诞主义重制版 一起理解文学史上最伟大的开头 必须想象：西西弗斯是幸福的 #vibe知识大赏 #加缪 #荒诞主义 #局外人 #哲学" [level=3]':
+    - 'link "Vibe知识大赏｜荒诞主义重制版 一起理解文学史上最伟大的开头 必须想象：西西弗斯是幸福的 #vibe知识大赏 #加缪 #荒诞主义 #局外人 #哲学"':
+      - /url: //www.douyin.com/video/7693005771819692534
+      - generic: Vibe知识大赏｜荒诞主义重制版 一起理解文学史上最伟大的开头
+      - generic: 必须想象：西西弗斯是幸福的
+      - generic: "#vibe知识大赏 #加缪 #荒诞主义 #局外人 #哲学"
+  - text: 19.7万
+  - link "叁号暗房 Logos":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAfccEuZ5r95g5SEv-2DA9Hv2NL24MIehkAvN8s-rjDOs?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 叁号暗房 Logos
+  - 'link "Vibe知识大赏|赢了6次就会一直赢 浙江大学2017年在《Science》发表的一项研究： 两只小鼠在一根窄管里相遇，谁把对方推出去，谁就赢。 连赢几次之后，就算不再给光照，它们依然能继续赢。 因为胜利的经历加强了丘脑到前额叶的神经连接，\"敢赢\"变成了大脑的习惯。 这就是\"胜利者效应\"： 赢，不只是一个结果，它也会改变下一次。 所以，别小看每一次小小的成功。 它们正在悄悄改写你的大脑。 #vibecoding #让我们一起赢 #Vibe知识大赏 01:39"':
+    - /url: //www.douyin.com/video/7698051483190824233
+    - 'img "Vibe知识大赏|赢了6次就会一直赢 浙江大学2017年在《Science》发表的一项研究： 两只小鼠在一根窄管里相遇，谁把对方推出去，谁就赢。 连赢几次之后，就算不再给光照，它们依然能继续赢。 因为胜利的经历加强了丘脑到前额叶的神经连接，\"敢赢\"变成了大脑的习惯。 这就是\"胜利者效应\"： 赢，不只是一个结果，它也会改变下一次。 所以，别小看每一次小小的成功。 它们正在悄悄改写你的大脑。 #vibecoding #让我们一起赢 #Vibe知识大赏"'
+    - generic: 01:39
+  - 'heading "Vibe知识大赏|赢了6次就会一直赢 浙江大学2017年在《Science》发表的一项研究： 两只小鼠在一根窄管里相遇，谁把对方推出去，谁就赢。 连赢几次之后，就算不再给光照，它们依然能继续赢。 因为胜利的经历加强了丘脑到前额叶的神经连接，\"敢赢\"变成了大脑的习惯。 这就是\"胜利者效应\"： 赢，不只是一个结果，它也会改变下一次。 所以，别小看每一次小小的成功。 它们正在悄悄改写你的大脑。 #vibecoding #让我们一起赢 #Vibe知识大赏" [level=3]':
+    - 'link "Vibe知识大赏|赢了6次就会一直赢 浙江大学2017年在《Science》发表的一项研究： 两只小鼠在一根窄管里相遇，谁把对方推出去，谁就赢。 连赢几次之后，就算不再给光照，它们依然能继续赢。 因为胜利的经历加强了丘脑到前额叶的神经连接，\"敢赢\"变成了大脑的习惯。 这就是\"胜利者效应\"： 赢，不只是一个结果，它也会改变下一次。 所以，别小看每一次小小的成功。 它们正在悄悄改写你的大脑。 #vibecoding #让我们一起赢 #Vibe知识大赏"':
+      - /url: //www.douyin.com/video/7698051483190824233
+      - generic: Vibe知识大赏|赢了6次就会一直赢 浙江大学2017年在《Science》发表的一项研究：
+      - generic: 两只小鼠在一根窄管里相遇，谁把对方推出去，谁就赢。
+      - generic: 连赢几次之后，就算不再给光照，它们依然能继续赢。
+      - generic: 因为胜利的经历加强了丘脑到前额叶的神经连接，"敢赢"变成了大脑的习惯。
+      - generic: 这就是"胜利者效应"：
+      - generic: 赢，不只是一个结果，它也会改变下一次。
+      - generic: 所以，别小看每一次小小的成功。
+      - generic: 它们正在悄悄改写你的大脑。
+      - generic: "#vibecoding #让我们一起赢 #Vibe知识大赏"
+  - text: 2.5万
+  - link "有理Yoli":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAl7W-duFqpdImo6hXWh3FGlhavw92jagefcbQUoNUjVrS--w7PFcRnMEouFAUFCcD?author_id=1418797132560580&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7694642902038859043&log_pb=%7B%22impr_id%22%3A%2220261020104419222FF63326B6979FDEEA%22%7D&relation=0
+    - generic: 有理Yoli
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音精选":
+    - /url: https://www.douyin.com/jingxuan
+  - link "抖音游戏":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "书法学习":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAKG3ZLSOcNhHOC18SZJlBe00VfSNX-PZbMOn30ufSAVs
+  - link "小学英语语法学不会，不是孩子笨，是方法没找对。用这本漫画口诀记语法，夯实英语基本功，搞定小学语法重难点。#小学":
+    - /url: https://www.douyin.com/video/7698353973199260955
+  - link "2025年湖南高考难不难":
+    - /url: https://www.douyin.com/topic/7509859882242328610
+  - link "挑战高考卷":
+    - /url: https://www.douyin.com/shipin/7509903769753159743
+  - link "长江大学体育生":
+    - /url: https://www.douyin.com/search/%E9%95%BF%E6%B1%9F%E5%A4%A7%E5%AD%A6%E4%BD%93%E8%82%B2%E7%94%9F
+  - link "23点到5点之间要尽可能睡好觉":
+    - /url: https://www.douyin.com/video/7615880940191091968?source=Baiduspider
+  - link "福鼎/城市、旅游宣传片，太姥山、中国扶贫第一村赤溪、嵛山岛航拍#福鼎旅游推荐官 @太姥山旅游":
+    - /url: https://www.douyin.com/video/7129535525878287619?source=Baiduspider
+  - 'link "物极必反，盛极而衰，这是大自然的平衡法则。生意太好做，就预示着低谷即将来临，懂得急流勇退，方能立于不败之地，也是经商之道。#创业正能量 #正能量 #励志"':
+    - /url: https://www.douyin.com/video/7153978741901806862?source=Baiduspider
+  - 'link "#小说 #超级好看小说 #文荒推荐"':
+    - /url: https://www.douyin.com/video/7557320728614931770?source=Baiduspider-sdc
+  - 'link "布鲁克王蛇基因讲解 第1章:基础基因（本人新手玩家，才疏学浅，有错误的地方欢迎大家批评指正！出视频意在帮助新手玩家快速入门）#知识分享 #蛇类科普 #布鲁克王蛇"':
+    - /url: https://www.douyin.com/video/7558504285349580051?source=Baiduspider
+  - 'link "汽车共振问题 #汽车那点事儿 #经验分享 #说车聊车 #答疑解惑 #低频共振 你的车有遇到过同频共振低频压耳的现象吗？这种情况坐车开车是极度不舒适的，会耳鸣，脑瓜子嗡嗡的。如果不能接受，赶紧到4S店帮你解决那同屏共振的这种现象在电车或者是SUV上面共振现象会常见一点。"':
+    - /url: https://www.douyin.com/video/7425986316329880895?source=Baiduspider
+  - 'link "摩托车科目三考试全流程，需要的朋友看过来#摩托车驾照 #三轮摩托车 #驾考一把过 #报名学车"':
+    - /url: https://www.douyin.com/video/7385581788179090729?source=Baiduspider-sdc

@@ -1,0 +1,157 @@
+{
+  "research_id": "radar-douyin-20261020",
+  "scope": "Vibe knowledge showcase supplement; updated current user scope: about1minute code-driven explanation;3 topics; no old-topic priority comparison",
+  "captured_at": "2026-10-20T10:50:34.450644+08:00",
+  "status": "PARTIAL_EVIDENCE_CANDIDATES_PENDING_PMO",
+  "owner": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "rules": [
+    "CODEX-MEDIA-20261020-v1",
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "HANDOFF-2026-10-10-v2"
+  ],
+  "target_model_effort": "gpt-6.1-sol/medium",
+  "actual_model_effort_speed": "UNKNOWN",
+  "budget": {
+    "external_acquisition_action_count_conservative": 8,
+    "limit": 8,
+    "actions": [
+      "search exact Vibe知识大赏",
+      "click AI image-generation result",
+      "open exact AI independent detail",
+      "download ready AI video once failed",
+      "Escape attempt in modal search textbox, did not close modal",
+      "native modal close",
+      "click exact Nico result",
+      "open exact Nico independent detail"
+    ],
+    "same_document_observations": "DOM and native-playing screenshot reads recorded separately below; no repeated source searches, reloads, credential extraction, or new source fetch after cap",
+    "new_video_audio_bytes": 0,
+    "max_new_media_bytes": 52428800,
+    "deadline": "2026-10-20T10:58:21+08:00",
+    "source_collection_stopped_at_cap": true
+  },
+  "sources": [
+    {
+      "id": "search",
+      "url": "https://www.douyin.com/search/Vibe知识大赏",
+      "read": "native rendered result cards only; titles/descriptions/relative dates/counts",
+      "evidence": "搜索原件.txt",
+      "trend_limit": "one ranked search page cannot prove whole-topic popularity or weekly growth; search relevant phrases not independent trend evidence"
+    },
+    {
+      "id": "draw",
+      "url": "https://www.douyin.com/video/7694642902038859043",
+      "author": "浙大猫学长",
+      "author_url": "https://www.douyin.com/user/MS4wLjABAAAA_gr4GldpYARx-VmGCOQrqhgxR4RNkMctuViE-QegVCvByxWkIHDaESG9tKagAY_H",
+      "published_at_ui": "2026-10-09 20:24",
+      "timezone": "Asia/Shanghai UI convention",
+      "duration_sec": 226.334,
+      "within_latest7days": false,
+      "why_selected": "AI mechanism strongly related; older content/form example, not current trend proof",
+      "interaction_display": {
+        "likes": "2.9万",
+        "comments": "528",
+        "favorites": "9704",
+        "shares": "4378"
+      },
+      "read": "original title/date/author and5actual screenshots; platform AI chapter summary retained but not used as full transcript",
+      "coverage": {
+        "samples": 5,
+        "timestamps": [
+          21.571111,
+          58.217409,
+          82.182295,
+          114.55289,
+          199.413495
+        ],
+        "range": [
+          21.571111,
+          199.413495
+        ],
+        "max_gap_seconds": 84.860605,
+        "unsampled_head_seconds": 21.571111,
+        "unsampled_tail_seconds": 26.92050499999999,
+        "full_audio_asr": false,
+        "direct_listening": false,
+        "continuous_visual": false,
+        "full_video_read": false
+      },
+      "download": "failed once, exact error Download972efeaf-df69-46ba-bb91-00fb7cb22736 failed; locator.downloadMedia action_failed; readyState4 duration226.334 before attempt",
+      "textTracks": 0,
+      "raw": "AI画图-原页.txt"
+    },
+    {
+      "id": "nico",
+      "url": "https://www.douyin.com/video/7697240924837748134",
+      "author": "Nico",
+      "author_url": "https://www.douyin.com/user/MS4wLjABAAAAzZjju_cJxES-ro7MwoplKlGi3bJPiZlOfP4L6M-EKyVINaD9iKpLvxbjVH76VH6e",
+      "published_at_ui": "2026-10-16 20:25",
+      "timezone": "Asia/Shanghai UI convention",
+      "duration_sec": 130.172,
+      "within_latest7days": true,
+      "interaction_display": {
+        "likes": "76.7万",
+        "comments": "1.7万",
+        "favorites": "13.3万",
+        "shares": "36.1万"
+      },
+      "read": "original title/description/date/author,4actual screenshots; no empirical verification of description psychology statistics",
+      "coverage": {
+        "samples": 4,
+        "timestamps": [
+          6.533546,
+          18.039687,
+          30.547419,
+          62.862894
+        ],
+        "range": [
+          6.533546,
+          62.862894
+        ],
+        "max_gap_seconds": 32.31547499999999,
+        "unsampled_head_seconds": 6.533546,
+        "unsampled_tail_seconds": 67.309106,
+        "full_audio_asr": false,
+        "direct_listening": false,
+        "continuous_visual": false,
+        "full_video_read": false
+      },
+      "playback_note": "4th screenshot currentTime18.04 after previous62.86; time returned backward with duration130.233. Same URL retained, likely loop/quality variation but mechanism UNKNOWN. Do not assume continuous chronology or complete prior playback observation.",
+      "textTracks": 0,
+      "raw": "Nico-原页.txt",
+      "occlusion": "native bullet comments partially cover upper area; claims limited to actually visible graphics"
+    },
+    {
+      "id": "math",
+      "path": "数学示例核验.json",
+      "read": "exact Fraction arithmetic for explicitly assumed teaching models; not real populations or real plant growth"
+    }
+  ],
+  "knowledge_checks": {
+    "exponential_example": "checked exact fractions under explicit doubling premise; no claim effort/wealth naturally doubles",
+    "selection_example": "checked conditional counts on explicit100toyshops; no real-business data or causal claim",
+    "diffusion": "reference creator frame content only; original paper/current model verification deferred until selected; not declared scientifically fully verified"
+  },
+  "music": {
+    "actual_audio_obtained": false,
+    "direct_listening": false,
+    "attributable_track_title": "UNKNOWN",
+    "same_track_across_videos": "UNKNOWN",
+    "visible_evidence_file": "曲名与工具可见线索.json",
+    "related_card_warning": "code-generated music/Opus text in draw page belongs to a recommended third61sec video, not core source; not opened/not counted as read"
+  },
+  "implementation": {
+    "sample_remotion_verified": false,
+    "sample_claude_code_verified": false,
+    "code_render_or_import_performed": false,
+    "user_desired_approx1minute_sample_verified": false,
+    "note": "both chosen core examples longer than about1minute; no claims their pacing establishes exact requested duration"
+  },
+  "deliverable_topics": [
+    "为什么最后一天抵得上前面29天：指数增长",
+    "为什么成功者的经验会让你算错成功率：选择偏差",
+    "AI画画第一笔为什么是一屏雪花：扩散模型限定原理"
+  ],
+  "cleanup": "Only necessary screenshots/text/JSON; no successful MP4/WAV or disposable media cache; preserve evidence, no deletion."
+}

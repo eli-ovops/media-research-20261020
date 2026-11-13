@@ -1,0 +1,181 @@
+{
+  "task_id": "radar-douyin-20261020",
+  "status": "PARTIAL_PENDING_PMO_REVIEW",
+  "captured_at_beijing": "2026-10-20T10:19:27.212757+08:00",
+  "rules": [
+    "CODEX-MEDIA-20261020-v1",
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "HANDOFF-2026-10-10-v2"
+  ],
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "budget": {
+    "external_acquisitions": 12,
+    "limit": 12,
+    "counting": "Conservative: count each search click/Enter attempt and navigation including back/reload; doctor and same-document DOM/screenshots are not new research acquisitions",
+    "video_deep_reads": 0,
+    "max_video_deep_reads": 3,
+    "downloaded_video_audio_bytes": 0,
+    "stop": "acquisition cap reached"
+  },
+  "sources": [
+    {
+      "id": "D0",
+      "url": "https://www.douyin.com/jingxuan",
+      "author": "multiple native cards",
+      "published_raw": [
+        "柱子哥TzFilm:6天前",
+        "FredTalk:1天前",
+        "产品君:1天前",
+        "肖雄Shaq:3天前"
+      ],
+      "date_limit": "relative text only; absolute work time and IDs UNKNOWN",
+      "read": "native card titles/descriptions; not videos",
+      "raw_evidence": "initial native AX tool result in this run; later home snapshot is reranked and saved separately as 抖音精选首屏.txt",
+      "unverified_claims": "all model/news/product abilities in card descriptions remain unverified"
+    },
+    {
+      "id": "D1",
+      "url": "https://www.douyin.com/search/柱子哥TzFilm",
+      "read": "native search login gate",
+      "video_id": "UNKNOWN",
+      "blocker": "登录后即可搜索更多精彩视频",
+      "account_action": false
+    },
+    {
+      "id": "D2",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAbsEkiVbKt7yhYoBK8_PkNTQoPAgRiLzOyrBc-sYHSdo",
+      "author": "FredTalk",
+      "identity": "917997605",
+      "read": "public profile identity/131 works; list service error after one normal refresh",
+      "evidence": [
+        "Fred主页原件.txt",
+        "Fred主页刷新后原件.txt",
+        "Fred主页当前截图.jpg"
+      ]
+    },
+    {
+      "id": "O1",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/",
+      "author": "Microsoft / Juan Lavista Ferres",
+      "published": "2026-09-21",
+      "read": "full short article",
+      "claim": "June 2026 18.8% generative AI usage estimate among ages15-64; no globally comparable agent-user rate",
+      "evidence": "AI官方原件.json"
+    },
+    {
+      "id": "O2",
+      "url": "https://arxiv.org/abs/2606.26959",
+      "published": "2026-06-25",
+      "read": "abstract and metadata only",
+      "sample": "Codex individual accounts, organizational accounts, OpenAI employees; not all world population",
+      "evidence": "AI官方原件.json"
+    },
+    {
+      "id": "O3",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "input_url": "https://github.com/Gathin23/tv-vibehack",
+      "read": "current GitHub README plus local prior README; current repository redirect verified",
+      "event_date": "2026-10-17 as stated by author README; X original not independently opened",
+      "evidence": "电视项目当前原件.json"
+    },
+    {
+      "id": "L1",
+      "path": "/Volumes/EXTERNAL/电视纯净/tv-vibehack/README.md",
+      "read": "full local README; snapshot differs from current repository",
+      "executed": false
+    },
+    {
+      "id": "L2",
+      "path": "/Volumes/EXTERNAL/电视纯净/tv-vibehack/docs/stock-vs-new-side.jpg",
+      "read": "actual image viewed, source author before-after still; not user result",
+      "executed": false
+    },
+    {
+      "id": "L3",
+      "path": "/Users/USER/Documents/Codex/2026-10-19/tv-vibehack-preparation/outputs",
+      "read": "exact directory listed empty",
+      "meaning": "no successful installation evidence here; does not prove no evidence elsewhere"
+    },
+    {
+      "id": "M1",
+      "path": "/Users/USER/.codex/memories/extensions/skysight/resources/2026-10-19T14-10-00-vWlX-10min-memory-summary.md",
+      "read": "historical summary only; current TV state not checked",
+      "claim": "prior modification paused; auto-start triage unresolved; no observed successful computer control",
+      "current_state": "UNKNOWN"
+    }
+  ],
+  "coverage": {
+    "full_captions": 0,
+    "asr": 0,
+    "sampled_video_frames": 0,
+    "continuous_visual": 0,
+    "direct_audio": 0,
+    "local_static_images_viewed": 1,
+    "latest_xigua_covered": false
+  },
+  "acquisition_log": [
+    {
+      "n": 1,
+      "action": "native Douyin homepage"
+    },
+    {
+      "n": 2,
+      "action": "native search button attempt, no search navigation observed"
+    },
+    {
+      "n": 3,
+      "action": "native Enter search attempt, suggestions only"
+    },
+    {
+      "n": 4,
+      "action": "native direct search URL, login gate"
+    },
+    {
+      "n": 5,
+      "action": "web search global AI adoption"
+    },
+    {
+      "n": 6,
+      "action": "web search global agents usage"
+    },
+    {
+      "n": 7,
+      "action": "open Microsoft official article"
+    },
+    {
+      "n": 8,
+      "action": "open Codex paper abstract"
+    },
+    {
+      "n": 9,
+      "action": "native back to Douyin home, reranked"
+    },
+    {
+      "n": 10,
+      "action": "native Fred profile, service error"
+    },
+    {
+      "n": 11,
+      "action": "open author TV repository, redirected cleanyourtv"
+    },
+    {
+      "n": 12,
+      "action": "native Fred one normal reload, service error persists"
+    }
+  ],
+  "doctor": {
+    "run": true,
+    "github": "gh CLI ok",
+    "bilibili": "bili-cli ok",
+    "exa": "doctor reports available; historical actual Unknown MCP server, no repeated invocation",
+    "douyin": "no CLI route; native IAB used",
+    "twitter": "installed but unauthenticated",
+    "opencli_social": "extension missing; no installation"
+  },
+  "cleanup": "No downloaded MP4/WAV or disposable transient media; necessary evidence retained. No deletion."
+}

@@ -1,0 +1,14 @@
+{
+  "task_id": "radar-douyin-20261020",
+  "tool": "send_message_to_thread",
+  "threadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "hostId": "local",
+  "attempts": 1,
+  "status": "DELIVERY_UNKNOWN_NO_TOOL_RECEIPT",
+  "result": "Single tool invocation remained pending across repeated resumptions; orchestration exec cell26 terminated after prolonged no-return. No result or isError was received. Underlying message may still have been delivered; do not resend blindly.",
+  "tool_succeeded": "UNKNOWN",
+  "pmo_received": "UNKNOWN",
+  "report_file": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/选题建议-v2.md",
+  "report_sha256": "4cb2bc4a300fd3f4a625fd545ac77b98f1d2856f08394b0dc1031f42d32d14ef",
+  "observed_at": "2026-10-20T10:34:58.235611+08:00"
+}

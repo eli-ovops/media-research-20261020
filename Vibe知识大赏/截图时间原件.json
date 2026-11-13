@@ -1,0 +1,60 @@
+{
+  "draw": [
+    {
+      "file": "draw-01.jpg",
+      "time": 21.571111
+    },
+    {
+      "file": "draw-02.jpg",
+      "currentTime": 58.217409,
+      "duration": 226.334,
+      "readyState": 4,
+      "textTracks": 0
+    },
+    {
+      "file": "draw-03.jpg",
+      "currentTime": 82.182295,
+      "duration": 226.334,
+      "readyState": 4
+    },
+    {
+      "file": "draw-04.jpg",
+      "currentTime": 114.55289,
+      "duration": 226.334,
+      "readyState": 4
+    },
+    {
+      "file": "draw-05.jpg",
+      "currentTime": 199.413495,
+      "duration": 226.334,
+      "readyState": 4
+    }
+  ],
+  "nico": [
+    {
+      "file": "nico-01.jpg",
+      "currentTime": 6.533546,
+      "duration": 130.172,
+      "readyState": 4,
+      "textTracks": 0
+    },
+    {
+      "file": "nico-02.jpg",
+      "currentTime": 30.547419,
+      "duration": 130.172,
+      "readyState": 4
+    },
+    {
+      "file": "nico-03.jpg",
+      "currentTime": 62.862894,
+      "duration": 130.172,
+      "readyState": 4
+    },
+    {
+      "file": "nico-04.jpg",
+      "currentTime": 18.039687,
+      "duration": 130.233333,
+      "readyState": 4
+    }
+  ]
+}

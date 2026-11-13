@@ -1,0 +1,16 @@
+{
+  "type": "explicit teaching-model arithmetic, not empirical research, no rendering or production",
+  "doubling": {
+    "assumptions": "coverage doubles once per day; day30 is exactly full; ignore resource limits until full",
+    "day25": "1/32",
+    "day28": "1/4",
+    "day29": "1/2",
+    "day30": "1"
+  },
+  "selection_bias": {
+    "assumptions": "100 hypothetical shops all open early; 10 survive and90 close; not real business data",
+    "early_openers_among_survivors": "1",
+    "survivors_among_early_openers": "1/10",
+    "conclusion": "different conditioning populations; does not establish causal benefit of opening early"
+  }
+}

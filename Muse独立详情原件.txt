@@ -1,0 +1,455 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: muse安装教程
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:06
+- generic: /
+- generic: 04:11
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- 'heading "第74集 | 我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中" [level=1]':
+  - text: 第74集 |
+  - generic: 我是如何让Muse帮我代运营海外社媒的
+  - link "#抖音精选App征稿中":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%B2%BE%E9%80%89App%E5%BE%81%E7%A8%BF%E4%B8%AD?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: "7236"
+- generic: "292"
+- generic: "2704"
+- generic: "893"
+- generic: 举报
+- generic: 发布时间：2026-10-14 08:09
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "grok bot怎么用":
+  - /url: //www.douyin.com/search/grok%20bot%E6%80%8E%E4%B9%88%E7%94%A8?aweme_id=7696309053290564907&enter_from=video_detail&gid=7696309053290564907&source=comment_related_search
+  - generic: grok bot怎么用
+- link "啊键":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAhlFZNHFHXZU47WW7ZnVtMBYuv4LPBucNSovnOQuVYEY
+  - generic: 啊键
+- generic: ...
+- generic: 求大佬
+- generic: 15小时前·浙江
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "a小海贼":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAy2JHZeM7R_uHKtz5HNfmJM1WXyK_uojJziAlzw34tZkjtIo3bk4jS7yFDjUCc_qd
+  - generic: a小海贼
+- generic: ...
+- generic: 互助呀 弟弟难呐
+- generic: 2天前·湖南
+- paragraph:
+  - generic: "1"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "Super_C.":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAp0HM5GOcL2lnSgiuRhmtqyCoArQGZ7RkElwsQwHpV-8
+  - generic: Super_C.
+- generic: ...
+- generic: 新注册的 RZ5SKA
+- generic: 1天前·河南
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "我不是正义使者":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA2uUb8lDiiTZolaxvhqwCIf0tacKPtKTtWNvW3YxnvWA
+  - generic: 我不是正义使者
+- generic: ...
+- text: 用grok一样的
+- img "[捂脸]"
+- text: grok还不会检测你到底是不是中国的
+- generic: 13小时前·美国
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "用户8391270837871":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAJq5lsCe0J7zKJachp8TrduiDAtFU-RmjbQA4NfX9244
+  - generic: 用户8391270837871
+- generic: ...
+- text: 哎，有些网站的安全验证过不了，还是得手动操作的，还是需要手动捣鼓，有什么办法可以解决不
+- img "[感谢]"
+- generic: 16小时前·重庆
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- generic: 加载中
+- link "柱子哥TzFilm":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq
+  - img "柱子哥TzFilm"
+- link "柱子哥TzFilm":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq
+  - generic: 柱子哥TzFilm
+- paragraph: 粉丝22.5万获赞169.8万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "合集 · Ai" [level=2]
+- list:
+  - link "合集 · Ai第70集 07:23":
+    - /url: //www.douyin.com/video/7691390692584672538
+    - img "合集 · Ai第70集"
+    - generic: 07:23
+  - 'heading "第70集 | 商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划" [level=3]':
+    - 'link "第70集 | 商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划"':
+      - /url: //www.douyin.com/video/7691390692584672538
+      - generic: "第70集 | 商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划"
+  - text: "4259"
+  - link "合集 · Ai第71集 07:28":
+    - /url: //www.douyin.com/video/7693329038437272883
+    - img "合集 · Ai第71集"
+    - generic: 07:28
+  - 'heading "第71集 | 听说摄影圈变天了？到底是什么决定了相机的画质！ #抖音精选app征稿中 #抖音前沿科技首发计划" [level=3]':
+    - 'link "第71集 | 听说摄影圈变天了？到底是什么决定了相机的画质！ #抖音精选app征稿中 #抖音前沿科技首发计划"':
+      - /url: //www.douyin.com/video/7693329038437272883
+      - generic: "第71集 | 听说摄影圈变天了？到底是什么决定了相机的画质！ #抖音精选app征稿中 #抖音前沿科技首发计划"
+  - text: "4805"
+  - link "合集 · Ai第72集 09:56":
+    - /url: //www.douyin.com/video/7694879807749803304
+    - img "合集 · Ai第72集"
+    - generic: 09:56
+  - heading "第72集 | 靠Ai搞外贸你了解多少？心得秘方全公开" [level=3]:
+    - link "第72集 | 靠Ai搞外贸你了解多少？心得秘方全公开":
+      - /url: //www.douyin.com/video/7694879807749803304
+      - generic: 第72集 | 靠Ai搞外贸你了解多少？心得秘方全公开
+  - text: "9429"
+  - link "合集 · Ai第73集 02:10":
+    - /url: //www.douyin.com/video/7695964257132891434
+    - img "合集 · Ai第73集"
+    - generic: 02:10
+  - 'heading "第73集 | 千问要出PersonalAgent 了，分享几个真实case #千问将推出PersonalAgent #Ai #千问Go" [level=3]':
+    - 'link "第73集 | 千问要出PersonalAgent 了，分享几个真实case #千问将推出PersonalAgent #Ai #千问Go"':
+      - /url: //www.douyin.com/video/7695964257132891434
+      - generic: "第73集 | 千问要出PersonalAgent 了，分享几个真实case #千问将推出PersonalAgent #Ai #千问Go"
+  - text: 1.5万
+  - link "合集 · Ai第74集 播放中":
+    - /url: //www.douyin.com/video/7696309053290564907
+    - img "合集 · Ai第74集"
+    - generic: 播放中
+  - 'heading "第74集 | 我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中" [level=3]':
+    - 'link "第74集 | 我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中"':
+      - /url: //www.douyin.com/video/7696309053290564907
+      - generic: "第74集 | 我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中"
+  - text: "7236"
+  - link "合集 · Ai第75集 05:11":
+    - /url: //www.douyin.com/video/7697586978954497290
+    - img "合集 · Ai第75集"
+    - generic: 05:11
+  - heading "第75集 | 我正试图把我的GrokBot训练成天才交易员" [level=3]:
+    - link "第75集 | 我正试图把我的GrokBot训练成天才交易员":
+      - /url: //www.douyin.com/video/7697586978954497290
+      - generic: 第75集 | 我正试图把我的GrokBot训练成天才交易员
+  - text: "7159"
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "AI短视频制作，统一回答大家最关心的问题。 没想到第一条AI短视频会有这么多人看，也收到了很多小伙伴的私信和评论区提问。 私信确实有点回复不过来了，所以干脆直接做一期视频，把大家问得比较多的问题统一整理出来，供大家参考。也算是继续传承一下大佬们的开源精神：我学到什么、踩过什么坑，就尽量分享什么。 我自己也还是AI小白，边学边做，不卖课。后面大家还有什么想问的，直接留在评论区。点赞比较多的问题，我再单独整理一期统一解答。一起学习，一起进步。 #AI学习 #AI视频 #AIGC #Seedance 03:51"':
+    - /url: //www.douyin.com/video/7687632073955314970
+    - 'img "AI短视频制作，统一回答大家最关心的问题。 没想到第一条AI短视频会有这么多人看，也收到了很多小伙伴的私信和评论区提问。 私信确实有点回复不过来了，所以干脆直接做一期视频，把大家问得比较多的问题统一整理出来，供大家参考。也算是继续传承一下大佬们的开源精神：我学到什么、踩过什么坑，就尽量分享什么。 我自己也还是AI小白，边学边做，不卖课。后面大家还有什么想问的，直接留在评论区。点赞比较多的问题，我再单独整理一期统一解答。一起学习，一起进步。 #AI学习 #AI视频 #AIGC #Seedance"'
+    - generic: 03:51
+  - 'heading "AI短视频制作，统一回答大家最关心的问题。 没想到第一条AI短视频会有这么多人看，也收到了很多小伙伴的私信和评论区提问。 私信确实有点回复不过来了，所以干脆直接做一期视频，把大家问得比较多的问题统一整理出来，供大家参考。也算是继续传承一下大佬们的开源精神：我学到什么、踩过什么坑，就尽量分享什么。 我自己也还是AI小白，边学边做，不卖课。后面大家还有什么想问的，直接留在评论区。点赞比较多的问题，我再单独整理一期统一解答。一起学习，一起进步。 #AI学习 #AI视频 #AIGC #Seedance" [level=3]':
+    - 'link "AI短视频制作，统一回答大家最关心的问题。 没想到第一条AI短视频会有这么多人看，也收到了很多小伙伴的私信和评论区提问。 私信确实有点回复不过来了，所以干脆直接做一期视频，把大家问得比较多的问题统一整理出来，供大家参考。也算是继续传承一下大佬们的开源精神：我学到什么、踩过什么坑，就尽量分享什么。 我自己也还是AI小白，边学边做，不卖课。后面大家还有什么想问的，直接留在评论区。点赞比较多的问题，我再单独整理一期统一解答。一起学习，一起进步。 #AI学习 #AI视频 #AIGC #Seedance"':
+      - /url: //www.douyin.com/video/7687632073955314970
+      - generic: AI短视频制作，统一回答大家最关心的问题。 没想到第一条AI短视频会有这么多人看，也收到了很多小伙伴的私信和评论区提问。
+      - generic: 私信确实有点回复不过来了，所以干脆直接做一期视频，把大家问得比较多的问题统一整理出来，供大家参考。也算是继续传承一下大佬们的开源精神：我学到什么、踩过什么坑，就尽量分享什么。
+      - generic: 我自己也还是AI小白，边学边做，不卖课。后面大家还有什么想问的，直接留在评论区。点赞比较多的问题，我再单独整理一期统一解答。一起学习，一起进步。
+      - generic: "#AI学习 #AI视频 #AIGC #Seedance"
+  - text: 3.3万
+  - link "金辰善":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAnx_A3ZCqH1h3H45J2uAcqb6fl0j4799ZVmKJu4PcMAW9HUP2kzBcLDIevmamMaWD?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 金辰善
+  - 'link "剪辑也可以很智能，每次为你节省30分钟不香吗？ 做内容创作的小伙伴看过来了！AGI时代来不来还不清楚，我自己对比尝试了几个功能之后，大时代肯定是在路上了，现在AI智能粗剪效果还不错，也能省不少功夫。 #GPT6Astra #howto驯服AI剪视频 #Astra剪辑 #GPT6剪辑 #抖音前沿科技首发计划 01:16"':
+    - /url: //www.douyin.com/video/7686058890370288931
+    - 'img "剪辑也可以很智能，每次为你节省30分钟不香吗？ 做内容创作的小伙伴看过来了！AGI时代来不来还不清楚，我自己对比尝试了几个功能之后，大时代肯定是在路上了，现在AI智能粗剪效果还不错，也能省不少功夫。 #GPT6Astra #howto驯服AI剪视频 #Astra剪辑 #GPT6剪辑 #抖音前沿科技首发计划"'
+    - generic: 01:16
+  - 'heading "剪辑也可以很智能，每次为你节省30分钟不香吗？ 做内容创作的小伙伴看过来了！AGI时代来不来还不清楚，我自己对比尝试了几个功能之后，大时代肯定是在路上了，现在AI智能粗剪效果还不错，也能省不少功夫。 #GPT6Astra #howto驯服AI剪视频 #Astra剪辑 #GPT6剪辑 #抖音前沿科技首发计划" [level=3]':
+    - 'link "剪辑也可以很智能，每次为你节省30分钟不香吗？ 做内容创作的小伙伴看过来了！AGI时代来不来还不清楚，我自己对比尝试了几个功能之后，大时代肯定是在路上了，现在AI智能粗剪效果还不错，也能省不少功夫。 #GPT6Astra #howto驯服AI剪视频 #Astra剪辑 #GPT6剪辑 #抖音前沿科技首发计划"':
+      - /url: //www.douyin.com/video/7686058890370288931
+      - generic: 剪辑也可以很智能，每次为你节省30分钟不香吗？ 做内容创作的小伙伴看过来了！AGI时代来不来还不清楚，我自己对比尝试了几个功能之后，大时代肯定是在路上了，现在AI智能粗剪效果还不错，也能省不少功夫。
+      - generic: "#GPT6Astra #howto驯服AI剪视频 #Astra剪辑 #GPT6剪辑 #抖音前沿科技首发计划"
+  - text: "5495"
+  - link "小A聊聊AI":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAmRQIaQwfcGTWqxLklx-DswH5PDACwEzXRFwSlq97C-A5pGZpCv-ksOQxXsXW-pau?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 小A聊聊AI
+  - 'link "手搓400万播放的AI影后级短片后续：让AI有“灵魂”的提示词万能公式，我手写了5000字提示词，让AI演员的表演第一次有了“灵魂” 文科生引来史诗级增强，AI对白提示词万能公式教程 — 由小云雀Seedance2.5 专业制作 #ai电影 #ai演员 #小云雀AI #小云雀Seedance25 #小云雀Seedance25全能专业制作 05:40"':
+    - /url: //www.douyin.com/video/7670762031490693818
+    - 'img "手搓400万播放的AI影后级短片后续：让AI有“灵魂”的提示词万能公式，我手写了5000字提示词，让AI演员的表演第一次有了“灵魂” 文科生引来史诗级增强，AI对白提示词万能公式教程 — 由小云雀Seedance2.5 专业制作 #ai电影 #ai演员 #小云雀AI #小云雀Seedance25 #小云雀Seedance25全能专业制作"'
+    - generic: 05:40
+  - 'heading "手搓400万播放的AI影后级短片后续：让AI有“灵魂”的提示词万能公式，我手写了5000字提示词，让AI演员的表演第一次有了“灵魂” 文科生引来史诗级增强，AI对白提示词万能公式教程 — 由小云雀Seedance2.5 专业制作 #ai电影 #ai演员 #小云雀AI #小云雀Seedance25 #小云雀Seedance25全能专业制作" [level=3]':
+    - 'link "手搓400万播放的AI影后级短片后续：让AI有“灵魂”的提示词万能公式，我手写了5000字提示词，让AI演员的表演第一次有了“灵魂” 文科生引来史诗级增强，AI对白提示词万能公式教程 — 由小云雀Seedance2.5 专业制作 #ai电影 #ai演员 #小云雀AI #小云雀Seedance25 #小云雀Seedance25全能专业制作"':
+      - /url: //www.douyin.com/video/7670762031490693818
+      - generic: 手搓400万播放的AI影后级短片后续：让AI有“灵魂”的提示词万能公式，我手写了5000字提示词，让AI演员的表演第一次有了“灵魂”
+      - generic: 文科生引来史诗级增强，AI对白提示词万能公式教程
+      - generic: — 由小云雀Seedance2.5 专业制作
+      - generic: "#ai电影 #ai演员 #小云雀AI #小云雀Seedance25 #小云雀Seedance25全能专业制作"
+  - text: "7900"
+  - link "foyege":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAq5UIz3urhEf4NK9TdN7EbmSzQfiy8lMdO1doGlEUW5E?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: foyege
+  - link "Deepseek 4.1 flash太拉了 但用好了反而能提升任务质量 01:19":
+    - /url: //www.douyin.com/video/7684865828507979046
+    - img "Deepseek 4.1 flash太拉了 但用好了反而能提升任务质量"
+    - generic: 01:19
+  - heading "Deepseek 4.1 flash太拉了 但用好了反而能提升任务质量" [level=3]:
+    - link "Deepseek 4.1 flash太拉了 但用好了反而能提升任务质量":
+      - /url: //www.douyin.com/video/7684865828507979046
+      - generic: Deepseek 4.1 flash太拉了 但用好了反而能提升任务质量
+  - text: "6856"
+  - link "笑也":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAMeid3Jh5_OQEnFxt57Bftrdg1dfQesCEFfXG6xcHwOVQ8m2lkldhYWcSPXGloeqz?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 笑也
+  - 'link "一句话，让Codex永久记忆+拥有第二大脑 Codex+Obsidian=自主进化第二大脑+预防Token爆炸的3层架构#codex #obsidian #普通人在ai时代 #当我用中式审美打开ai #ai新星计划 02:09"':
+    - /url: //www.douyin.com/video/7673936152407249509
+    - 'img "一句话，让Codex永久记忆+拥有第二大脑 Codex+Obsidian=自主进化第二大脑+预防Token爆炸的3层架构#codex #obsidian #普通人在ai时代 #当我用中式审美打开ai #ai新星计划"'
+    - generic: 02:09
+  - 'heading "一句话，让Codex永久记忆+拥有第二大脑 Codex+Obsidian=自主进化第二大脑+预防Token爆炸的3层架构#codex #obsidian #普通人在ai时代 #当我用中式审美打开ai #ai新星计划" [level=3]':
+    - 'link "一句话，让Codex永久记忆+拥有第二大脑 Codex+Obsidian=自主进化第二大脑+预防Token爆炸的3层架构#codex #obsidian #普通人在ai时代 #当我用中式审美打开ai #ai新星计划"':
+      - /url: //www.douyin.com/video/7673936152407249509
+      - generic: "一句话，让Codex永久记忆+拥有第二大脑 Codex+Obsidian=自主进化第二大脑+预防Token爆炸的3层架构#codex #obsidian #普通人在ai时代 #当我用中式审美打开ai #ai新星计划"
+  - text: 1.0万
+  - link "鸡毛灰上天":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAV3afvJ9Ci7E7d9Bmby_KJWkOSpdqDNcpFgY24e71hu8?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 鸡毛灰上天
+  - 'link "用Agent 10秒复刻小Lin说 #还有什么是ai不能做的 #我在抖音学ai #vibecoding #vibecoding大赏 #ChatGPT 01:40"':
+    - /url: //www.douyin.com/video/7685804182984609039
+    - 'img "用Agent 10秒复刻小Lin说 #还有什么是ai不能做的 #我在抖音学ai #vibecoding #vibecoding大赏 #ChatGPT"'
+    - generic: 01:40
+  - 'heading "用Agent 10秒复刻小Lin说 #还有什么是ai不能做的 #我在抖音学ai #vibecoding #vibecoding大赏 #ChatGPT" [level=3]':
+    - 'link "用Agent 10秒复刻小Lin说 #还有什么是ai不能做的 #我在抖音学ai #vibecoding #vibecoding大赏 #ChatGPT"':
+      - /url: //www.douyin.com/video/7685804182984609039
+      - generic: "用Agent 10秒复刻小Lin说 #还有什么是ai不能做的 #我在抖音学ai #vibecoding #vibecoding大赏 #ChatGPT"
+  - text: "8752"
+  - link "SlashZ":
+    - /url: //www.douyin.com/user/MS4wLjABAAAACtzXjD60crd_08Px1RC3Ls6Yc_763P02c4tAK_4hURk9FmIswXQ3mEZP3T25lIde?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: SlashZ
+  - 'link "不会英语敢勇闯AI短剧海外赛道？一招搞定 可以是把你现有的ai作品直接转制成海外版本，也可以是把你剧里的中文对白全部改成英文对白！ 就算是不了解海外文化，依旧能产出他们喜欢的剧本内容，这到底是一种什么样的神奇体验！ #ai工具 #sekoai #精品AI短漫剧用Seko #用Seko出爆款 #ai视频 03:01"':
+    - /url: //www.douyin.com/video/7681224513039682789
+    - 'img "不会英语敢勇闯AI短剧海外赛道？一招搞定 可以是把你现有的ai作品直接转制成海外版本，也可以是把你剧里的中文对白全部改成英文对白！ 就算是不了解海外文化，依旧能产出他们喜欢的剧本内容，这到底是一种什么样的神奇体验！ #ai工具 #sekoai #精品AI短漫剧用Seko #用Seko出爆款 #ai视频"'
+    - generic: 03:01
+  - 'heading "不会英语敢勇闯AI短剧海外赛道？一招搞定 可以是把你现有的ai作品直接转制成海外版本，也可以是把你剧里的中文对白全部改成英文对白！ 就算是不了解海外文化，依旧能产出他们喜欢的剧本内容，这到底是一种什么样的神奇体验！ #ai工具 #sekoai #精品AI短漫剧用Seko #用Seko出爆款 #ai视频" [level=3]':
+    - 'link "不会英语敢勇闯AI短剧海外赛道？一招搞定 可以是把你现有的ai作品直接转制成海外版本，也可以是把你剧里的中文对白全部改成英文对白！ 就算是不了解海外文化，依旧能产出他们喜欢的剧本内容，这到底是一种什么样的神奇体验！ #ai工具 #sekoai #精品AI短漫剧用Seko #用Seko出爆款 #ai视频"':
+      - /url: //www.douyin.com/video/7681224513039682789
+      - generic: 不会英语敢勇闯AI短剧海外赛道？一招搞定 可以是把你现有的ai作品直接转制成海外版本，也可以是把你剧里的中文对白全部改成英文对白！
+      - generic: 就算是不了解海外文化，依旧能产出他们喜欢的剧本内容，这到底是一种什么样的神奇体验！
+      - generic: "#ai工具 #sekoai #精品AI短漫剧用Seko #用Seko出爆款 #ai视频"
+  - text: "782"
+  - link "司康Sikang":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAFb8_pzI5iRjXonOKmkN2VtLJyBbr33jnM9vVsqxTy9Q?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 司康Sikang
+  - 'link "不会剪辑也能做视频？豆包工作AI教程（附开源 skill） #AI新星计划 #豆包工作 #视频Skill #教程分享 #vibecoding大赏 05:55"':
+    - /url: //www.douyin.com/video/7686343233638550799
+    - 'img "不会剪辑也能做视频？豆包工作AI教程（附开源 skill） #AI新星计划 #豆包工作 #视频Skill #教程分享 #vibecoding大赏"'
+    - generic: 05:55
+  - 'heading "不会剪辑也能做视频？豆包工作AI教程（附开源 skill） #AI新星计划 #豆包工作 #视频Skill #教程分享 #vibecoding大赏" [level=3]':
+    - 'link "不会剪辑也能做视频？豆包工作AI教程（附开源 skill） #AI新星计划 #豆包工作 #视频Skill #教程分享 #vibecoding大赏"':
+      - /url: //www.douyin.com/video/7686343233638550799
+      - generic: "不会剪辑也能做视频？豆包工作AI教程（附开源 skill） #AI新星计划 #豆包工作 #视频Skill #教程分享 #vibecoding大赏"
+  - text: "1806"
+  - link "程序员阿江-Relakkes":
+    - /url: //www.douyin.com/user/MS4wLjABAAAATJPY7LAlaa5X-c8uNdWkvz0jUGgpw4eeXIwu_8BhvqE?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 程序员阿江-Relakkes
+  - 'link "MiniMax H3本地部署保姆级攻略 喂饭级别的，跟着做30分钟搞定。#minimax #创易灵动 #comfyui #ai短剧 04:03"':
+    - /url: //www.douyin.com/video/7671186919849577769
+    - 'img "MiniMax H3本地部署保姆级攻略 喂饭级别的，跟着做30分钟搞定。#minimax #创易灵动 #comfyui #ai短剧"'
+    - generic: 04:03
+  - 'heading "MiniMax H3本地部署保姆级攻略 喂饭级别的，跟着做30分钟搞定。#minimax #创易灵动 #comfyui #ai短剧" [level=3]':
+    - 'link "MiniMax H3本地部署保姆级攻略 喂饭级别的，跟着做30分钟搞定。#minimax #创易灵动 #comfyui #ai短剧"':
+      - /url: //www.douyin.com/video/7671186919849577769
+      - generic: "MiniMax H3本地部署保姆级攻略 喂饭级别的，跟着做30分钟搞定。#minimax #创易灵动 #comfyui #ai短剧"
+  - text: 1.4万
+  - link "XiaoA灵洞":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAodGeWuqpUN7fDJrLheFdWTgseXZILojmpGoHaDN0o91gDVxxEPOFDDDenglqo5yz?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: XiaoA灵洞
+  - 'link "实测马斯克送的AI电脑有多好用 #玩儿个很新的东西 #人工智能 #马斯克 #AIGC一步之遥 #效率工具 01:17"':
+    - /url: //www.douyin.com/video/7673431047597559055
+    - 'img "实测马斯克送的AI电脑有多好用 #玩儿个很新的东西 #人工智能 #马斯克 #AIGC一步之遥 #效率工具"'
+    - generic: 01:17
+  - 'heading "实测马斯克送的AI电脑有多好用 #玩儿个很新的东西 #人工智能 #马斯克 #AIGC一步之遥 #效率工具" [level=3]':
+    - 'link "实测马斯克送的AI电脑有多好用 #玩儿个很新的东西 #人工智能 #马斯克 #AIGC一步之遥 #效率工具"':
+      - /url: //www.douyin.com/video/7673431047597559055
+      - generic: "实测马斯克送的AI电脑有多好用 #玩儿个很新的东西 #人工智能 #马斯克 #AIGC一步之遥 #效率工具"
+  - text: 2.8万
+  - link "赛文乔伊":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAB92s1iYJ6Kr4B6RpP3zenR2DywmkuBBX-RKYLExuNHk?author_id=7425882531418965049&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7696309053290564907&log_pb=%7B%22impr_id%22%3A%22202610201025098EFB05F23C802F5B4000%22%7D&relation=0
+    - generic: 赛文乔伊
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音神曲":
+    - /url: https://www.douyin.com/jingxuan/music
+  - link "抖音美食推荐":
+    - /url: https://www.douyin.com/jingxuan/food
+  - link "三鹤茶叶旗舰店":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAxeRBrIYyvIolyYaeoHKariR7LDu34bgtiz6kQ3nxYzMv7TpusD3TkiuvLXrHo3nH
+  - link "久违50年的同窗联谊盛典己圆满成功！回首相聚的一幕幕，特别是自己受到同学们的信任和勉励，能在展演台上舞出《高上青》舞蹈节目，并获得全场同学的喝彩，还献上了美丽的鲜花，我的心里满是欣慰。 历经半世纪，我们青丝己变成了白，但同学的名字轻轻一念，脸上的笑容，眼里就有了光，是如此的亲切和温暖，愿这份珍贵的同学情，能被时光温柔以待，友谊绵长。":
+    - /url: https://www.douyin.com/video/7698418003089067691
+  - link "浙江2025定向卫生招生计划":
+    - /url: https://www.douyin.com/topic/7509885431698212890
+  - link "高明一中今年高考状元":
+    - /url: https://www.douyin.com/shipin/7509912321398163467
+  - link "当我志愿报了无男":
+    - /url: https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%BF%97%E6%84%BF%E6%8A%A5%E4%BA%86%E6%97%A0%E7%94%B7
+  - link "定格毕业的夏天":
+    - /url: https://www.douyin.com/video/7653404101758746478?source=Baiduspider
+  - 'link "儿童早教动画《皮皮的糖果牙齿》#早教动画 #早教启蒙 #亲子阅读 #儿童动画 #看最幼稚的动画明白最深的道理"':
+    - /url: https://www.douyin.com/video/7222204975752039738?source=Baiduspider
+  - 'link "央美毕业的男朋友给我化妆5.0！ 这次进步好大 #vlog日常 #妆前妆后 #恋爱"':
+    - /url: https://www.douyin.com/video/7120593430408973576?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7568125933744311567?source=Baiduspider-sdc
+  - 'link "兔年到了，教你用一张纸折一个兔子信封，简单好看好玩#折纸 #折纸控 #创意手工"':
+    - /url: https://www.douyin.com/video/7186966326362000700?source=Baiduspider
+  - 'link "贴纸？喷水？用网红夸张手法测评：秀界新款持妆气垫！ #秀界气垫 #气垫测评 #底妆测评 #真实的样子"':
+    - /url: https://www.douyin.com/video/7367350986114977064?source=Baiduspider
+  - 'link "网红切瓜神器好用吗？5款全都买来试一下！ #切西瓜 #徒手开西瓜 #水果 #西瓜🍉 #吃瓜群众"':
+    - /url: https://www.douyin.com/video/7112691612832091405?source=Baiduspider-sdc

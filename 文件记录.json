@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-10-20T10:19:27.212757+08:00",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/01-近期抖音选题任务.md",
+      "bytes": 6429,
+      "sha256": "c33ab84a914e0db4821e85e24c68fa3b1b4adabbbca5088d4f41a492c9bd11b7",
+      "purpose": "task input"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI官方原件.json",
+      "bytes": 17084,
+      "sha256": "784d428bd32ddc8a96f2a0ed63cbd058b845dd6447d161791a9091682eb52b50",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Fred主页刷新后原件.txt",
+      "bytes": 9937,
+      "sha256": "baaf439efb564b44a1ef4cb0c7ce0e212b5b952c579e50b6f29edf8eb56ab9e7",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Fred主页原件.txt",
+      "bytes": 9523,
+      "sha256": "0f7d78116dead5d420dc6537c71d4b952217c165fe8942be4bd06e56b71fe7fe",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Fred主页当前截图.jpg",
+      "bytes": 38247,
+      "sha256": "3736c5908b6d5e587e8b967a23b072ce3fe3deb20f661302384479d872126457",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/抖音精选首屏.txt",
+      "bytes": 11339,
+      "sha256": "afb192780cc20059001afbfd53741600e55bbcc605fa63d54af40f83d5451a0d",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/来源与读取范围.json",
+      "bytes": 6094,
+      "sha256": "cb7fcf0e73f00261da17ba8de92e77419f4f3f6d9f5968e28893939c41981a45",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/电视项目当前原件.json",
+      "bytes": 14497,
+      "sha256": "66976b5729ee4aa2c8373a5dd69d9722d6d230391167e7734d8086a1c8157fa5",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/网页搜索原件.json",
+      "bytes": 35915,
+      "sha256": "58c306dcc080cc543a1dedc5c4c65a865d943cae246af6dd50102cca526d6ddf",
+      "purpose": "research delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/选题建议.md",
+      "bytes": 7225,
+      "sha256": "ecfb47c78fe6d191a916239442464af02f8e5c8156447759654e5aebd82b05ae",
+      "purpose": "research delivery/evidence; retain"
+    }
+  ],
+  "media_cache_deleted": [],
+  "retained": "necessary evidence, no disposable media"
+}

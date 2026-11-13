@@ -1,0 +1,86 @@
+{
+  "collector": "agent-reach routing / existing web__run backend; no retry of known-unconfigured Exa",
+  "date_beijing": "2026-10-20T11:09:24.496567+08:00",
+  "budget_used": 8,
+  "limit": 8,
+  "core_originals": [
+    "NIQ news",
+    "Accenture PDF relevant sections",
+    "EY news"
+  ],
+  "auxiliary_reads": [
+    "Ipsos title/metadata probe only; no figures adopted",
+    "same EY study linked explainer to check definitions/method; not a new independent study"
+  ],
+  "actions": [
+    {
+      "n": 1,
+      "action": "search",
+      "query": "2026 global consumer survey AI agents used percentage adults generative AI same survey",
+      "tool_ref": "turn74search*"
+    },
+    {
+      "n": 2,
+      "action": "search",
+      "query": "2026 global survey consumers AI agents usage Ipsos Deloitte percentage",
+      "tool_ref": "turn74search*"
+    },
+    {
+      "n": 3,
+      "action": "open",
+      "url": "https://nielseniq.com/global/en/news-center/2026/42-of-consumers-now-use-ai-tools-to-shop-niq-data-shows/",
+      "tool_ref": "turn75view0",
+      "read_range": "article/statistics/method L125–159, FAQ187"
+    },
+    {
+      "n": 4,
+      "action": "open PDF",
+      "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-fy26/q4/Accenture-Consumer-Pulse-2026.pdf",
+      "tool_ref": "turn75view1",
+      "read_range": "only returned relevant initial sections, not all35pages"
+    },
+    {
+      "n": 5,
+      "action": "search",
+      "query": "2026 survey consumers AI agents used countries percentage",
+      "tool_ref": "turn76search*",
+      "lead": "EY actual use, versus most intention-only reports"
+    },
+    {
+      "n": 6,
+      "action": "open probe",
+      "url": "https://www.ipsos.com/en-us/google-ipsos-multi-country-ai-survey-2026",
+      "tool_ref": "turn76view0",
+      "read_range": "title/metadata only; not adopted"
+    },
+    {
+      "n": 7,
+      "action": "open",
+      "url": "https://www.ey.com/en_sg/newsroom/2026/05/autonomous-ai-is-no-longer-theoretical-as-adoption-grows-despite-ongoing-trust-concerns",
+      "tool_ref": "turn77view0",
+      "read_range": "article424–481 incl method"
+    },
+    {
+      "n": 8,
+      "action": "click EY full findings link195",
+      "url": "https://www.ey.com/en_sg/insights/ai/as-ai-moves-from-advice-to-authority-who-defines-its-limits",
+      "tool_ref": "turn78view0",
+      "read_range": "returned body449–568, method/definitions/use checked; no linked18MBpdf download"
+    }
+  ],
+  "new_sources_retrieved": 5,
+  "independent_core_studies": 3,
+  "not_read": [
+    "Ipsos full questions/data",
+    "Accenture entire35pages/methodappendix",
+    "EY linked PDF/original questionnaire/crosstabs",
+    "full sample weight tables/precise EY fielddates"
+  ],
+  "no_failures": true,
+  "no_installs_paid_private_upload_device_or_account_actions": true,
+  "model_target": "gpt-6.1-sol/medium",
+  "actual_model_effort_speed": "UNKNOWN",
+  "user_latest_constraint": "about1minute, no face/human voice/narration/TTS; code text/animation/music;01 remains data only",
+  "conclusion": "no comparable global agent denominator or strict cross-tab established; absence not proven",
+  "cleanup": "necessary text/JSON only, no downloaded media or disposable cache; no deletion"
+}

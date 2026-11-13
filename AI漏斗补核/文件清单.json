@@ -1,0 +1,42 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/原始来源定位.md",
+      "bytes": 1594,
+      "sha256": "49ab11fd47600f3256f79cfdec4ace1bfd4e73dd8082febde041bc62b9a05b02",
+      "purpose": "bounded data verification delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/数据表.json",
+      "bytes": 8173,
+      "sha256": "b0bd020d8e4b737cb1669e1e4e0ebe4c0b18c096adda26597660c7634285b347",
+      "purpose": "bounded data verification delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/既有证据复用.json",
+      "bytes": 756,
+      "sha256": "5e864aa6db97ced48de68e7ba2a4ba339553fb43ca813e3f86848f5562f53e06",
+      "purpose": "bounded data verification delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/来源与读取范围.json",
+      "bytes": 3277,
+      "sha256": "9b3428367a095d3aefd96ec2312266de4bbe29e706e9ea3b044ba10349123089",
+      "purpose": "bounded data verification delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/漏斗数据核验.md",
+      "bytes": 8302,
+      "sha256": "29e9313130c66fea11a6b4a7b6cb9891b513ac2a49ec7eecb91affa7d47316cb",
+      "purpose": "bounded data verification delivery/evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/AI漏斗补核/主动报告发送回执.json",
+      "bytes": 149,
+      "sha256": "dd3529bf5cc3a18891565a7dca6002ae21db26dccf5e2b61039ad4e748436707",
+      "purpose": "actual successful report-tool receipt; not PMO acceptance"
+    }
+  ],
+  "total_bytes": 22251,
+  "temporary_cache_deleted": []
+}

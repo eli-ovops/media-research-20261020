@@ -1,0 +1,222 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容"
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - button "登录":
+    - paragraph: 登录
+- img "FredTalk头像"
+- heading "FredTalk" [level=1]:
+  - generic: FredTalk
+- generic: 关注
+- generic: "374"
+- generic: 粉丝
+- generic: 6.3万
+- generic: 获赞
+- generic: 35.7万
+- paragraph:
+  - generic: 抖音号：917997605
+  - generic: IP属地：广东
+- generic: 全部视频由Fred Skill全自动剪辑输出 带0基础小白从...
+- generic: 更多
+- button:
+- button "分享主页":
+  - generic: 分享主页
+- button "私信":
+  - generic: 私信
+- button "关注":
+  - generic: 关注
+- tablist:
+  - tab "作品 131" [selected]:
+    - heading "作品 131" [level=2]:
+      - generic: 作品
+      - generic: "131"
+  - tab "推荐":
+    - generic: 推荐
+  - tab "喜欢":
+    - generic: 喜欢
+- tabpanel "作品 131"
+- tablist:
+  - tab "作品" [selected]:
+    - generic: 作品
+  - tab "合集":
+    - generic: 合集
+  - tab "短剧":
+    - generic: 短剧
+- tabpanel "作品"
+- generic: 搜索 Ta 的作品
+- textbox "搜索 Ta 的作品"
+- generic: 日期筛选
+- list
+- generic: 服务异常，重新刷新拉取数据
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音游戏":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "抖音网页版":
+    - /url: https://www.douyin.com/jingxuan
+  - link "贺涵":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAcruL89EaWNF9GskRRdSvhAuX562L5cNDU7e5iwIC_Nk
+  - 'link "have的各种用法，一个视频吃透，帮你 阅读或者做题少出错#英语单词 #手写英语重点 #英语学习干货 #零基础英语 #创作者中心"':
+    - /url: https://www.douyin.com/video/7697856487159737444
+  - link "内蒙古体育统招":
+    - /url: https://www.douyin.com/topic/7509880538443040779
+  - link "湖北平均分":
+    - /url: https://www.douyin.com/shipin/7509926240464439311
+  - link "华中科技大学强基面试":
+    - /url: https://www.douyin.com/search/%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%BC%BA%E5%9F%BA%E9%9D%A2%E8%AF%95
+  - link "现在开始流行奶茶杯养鱼了":
+    - /url: https://www.douyin.com/video/7608938869081345322?source=Baiduspider
+  - 'link "小裂变官方介绍重磅发布！专业做私域，就找小裂变 #小裂变#私域营销 #企业微信scrm"':
+    - /url: https://www.douyin.com/video/7142748867325381901?source=Baiduspider
+  - 'link "雷克萨斯ES300h卓越版#雷克萨斯 #雷克萨斯es300h #雷克萨斯es #沉浸式看车 @抖音汽车"':
+    - /url: https://www.douyin.com/video/7141273067183033607?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7586319167645863217?source=Baiduspider-sdc
+  - link "《念亲恩》口令版，思念是一场没有终点的旅程，我带着你们的爱继续前行。在此，缅怀我逝去的父母，也祝愿天下所有的父母，平安喜乐，岁月悠长。#瑜伽#念亲恩#粤语歌曲":
+    - /url: https://www.douyin.com/video/7484975564844027146?source=Baiduspider
+  - 'link "在云南过年一定要去西双版纳吗？这几个地方也很暖和，值得考虑 #内容启发搜索 #云南过年 #2024打卡足迹年报"':
+    - /url: https://www.douyin.com/video/7457436456223542540?source=Baiduspider
+  - 'link "黑夜君临，还是有优点的 #艾尔登法环黑夜君临 #艾尔登法环黑夜君临攻略 #艾尔登法环黑夜君临创作激励 #还得是主机大作 #游戏内容风向标"':
+    - /url: https://www.douyin.com/video/7511286738069785907?source=Baiduspider-sdc
+- article:
+  - generic: 登录后免费畅享高清视频
+  - paragraph: Eli-Ai
+  - generic: 一键登录
+  - generic "登录即同意用户协议和隐私政策":
+    - text: 登录即同意
+    - link "用户协议":
+      - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+    - text: 和
+    - link "隐私政策":
+      - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - paragraph: 登录其他账号

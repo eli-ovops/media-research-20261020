@@ -1,0 +1,378 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容": 柱子哥TzFilm
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 综合
+- generic: 视频
+- generic: 用户
+- generic: 直播
+- generic: 多列
+- generic: 单列
+- text: 筛选
+- text: 为你找到以下结果，问问AI智能总结内容
+- generic: 问问AI
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq?enter_from=general_search&enter_method=general_search&extra_params=%7B%22search_params%22%3A%7B%22search_result_id%22%3A%227425882531418965049%22%2C%22relation_tag%22%3A0%2C%22log_pb%22%3A%7B%22impr_id%22%3A%222026102010242431EFD998342C19FDD488%22%7D%2C%22search_type%22%3A%22general%22%2C%22impr_id%22%3A%222026102010242431EFD998342C19FDD488%22%2C%22search_id%22%3A%222026102010242431EFD998342C19FDD488%22%2C%22search_keyword%22%3A%22%E6%9F%B1%E5%AD%90%E5%93%A5TzFilm%22%2C%22token_type%22%3A%22discover_list%22%7D%7D&from_tab_name=main
+- link "柱子哥TzFilm":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq?enter_from=general_search&enter_method=general_search&extra_params=%7B%22search_params%22%3A%7B%22search_result_id%22%3A%227425882531418965049%22%2C%22relation_tag%22%3A0%2C%22log_pb%22%3A%7B%22impr_id%22%3A%222026102010242431EFD998342C19FDD488%22%7D%2C%22search_type%22%3A%22general%22%2C%22impr_id%22%3A%222026102010242431EFD998342C19FDD488%22%2C%22search_id%22%3A%222026102010242431EFD998342C19FDD488%22%2C%22search_keyword%22%3A%22%E6%9F%B1%E5%AD%90%E5%93%A5TzFilm%22%2C%22token_type%22%3A%22discover_list%22%7D%7D&from_tab_name=main
+  - paragraph:
+    - generic: 柱子哥TzFilm
+- paragraph:
+  - generic: "抖音号: 21397448654"
+- generic: 169.8万获赞
+- generic: 22.5万粉丝
+- button "关注"
+- generic: 05:11
+- generic: "7159"
+- generic: 我正试图把我的GrokBot训练成天才交易员
+- generic: 04:11
+- generic: "7236"
+- generic: "我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中"
+- generic: 02:10
+- generic: 1.5万
+- generic: "千问要出PersonalAgent 了，分享几个真实case #千问将推出PersonalAgent #Ai #千问Go"
+- generic: 09:56
+- generic: "9429"
+- generic: 靠Ai搞外贸你了解多少？心得秘方全公开
+- generic: 07:28
+- generic: "4805"
+- generic: "听说摄影圈变天了？到底是什么决定了相机的画质！ #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: 07:23
+- generic: "4259"
+- generic: "商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: 05:43
+- generic: 1.9万
+- generic: "Opus5.5+Ae！为了这套新工作流，我买了台五万多的电脑 #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: 06:57
+- generic: "8169"
+- generic: 刘慈欣当顾问、550 万奖金池，新手怎么一边薅算力一边参赛？ MiniMax H3 RH Enhanced 限时免费#全球aigc长片创作大赛#ai视频#ai长片#局部重拍
+- generic: 03:29
+- generic: 1.1万
+- generic: "什么是PersonalAgent的终极形态？千问给出了方向 #千问 #云栖大会"
+- generic: 05:17
+- generic: "8862"
+- generic: "抖音创作者大会会后分享：想吃互联网这碗饭？顺应这几个趋势就行 #抖音创作者大会 #抖音精选app征稿中"
+- generic: 05:43
+- generic: 1.9万
+- generic: "Opus5.5+Ae！为了这套新工作流，我买了台五万多的电脑 #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月29日
+- generic: 05:11
+- generic: "7159"
+- generic: 我正试图把我的GrokBot训练成天才交易员
+- generic: "@柱子哥TzFilm"
+- generic: · 2天前
+- generic: 07:23
+- generic: "4259"
+- generic: "商单不断！我是如何利用Ai帮我完成逐字稿的？ #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 10月1日
+- generic: 07:28
+- generic: "4805"
+- generic: "听说摄影圈变天了？到底是什么决定了相机的画质！ #抖音精选app征稿中 #抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 10月6日
+- generic: 09:56
+- generic: "9429"
+- generic: 靠Ai搞外贸你了解多少？心得秘方全公开
+- generic: "@柱子哥TzFilm"
+- generic: · 10月10日
+- generic: 03:29
+- generic: 1.1万
+- generic: "什么是PersonalAgent的终极形态？千问给出了方向 #千问 #云栖大会"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月23日
+- paragraph: 相关搜索
+- paragraph: 柱子哥演唱作品
+- paragraph: 柱子哥话剧完整版
+- paragraph: 柱子哥 电影
+- paragraph: 柱子
+- paragraph: 柱子哥完整视频
+- paragraph: 柱子哥动画片段
+- paragraph: tzfilm
+- paragraph: 柱子哥创作的原声
+- generic: 04:11
+- generic: "7236"
+- generic: "我是如何让Muse帮我代运营海外社媒的 #抖音精选App征稿中"
+- generic: "@柱子哥TzFilm"
+- generic: · 6天前
+- generic: 08:28
+- generic: "3010"
+- generic: "摸清Ai和人脑的8个共性后，我砍掉了所有无意义的社交 #Ai新星计划 #抖音精选app征稿中 #抖音前沿科技首发计划 #青年创作者成长计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月18日
+- generic: 06:57
+- generic: "8169"
+- generic: 刘慈欣当顾问、550 万奖金池，新手怎么一边薅算力一边参赛？ MiniMax H3 RH Enhanced 限时免费#全球aigc长片创作大赛#ai视频#ai长片#局部重拍
+- generic: "@柱子哥TzFilm"
+- generic: · 9月28日
+- generic: 14:02
+- generic: 4.3万
+- generic: "Token出海是骗局吗？ #商业 #算力 #人工智能 #掘金计划2026 #燃起来了大国重器"
+- generic: "@柱子哥TzFilm"
+- generic: · 3月23日
+- generic: 04:56
+- generic: 3.2万
+- generic: "让Ai全链路接管你的自媒体频道！我把自用的Skill开源了 #青年创作者成长计划#VibeCoding大赏 #Ai新星计划 @抖音科技"
+- generic: "@柱子哥TzFilm"
+- generic: · 5月27日
+- generic: 06:08
+- generic: 11.7万
+- generic: "时薪300，有英语四级水平就能申请！如何给马斯克远程打工？ #青年创作者成长计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 5月29日
+- generic: 21:37
+- generic: 1.2万
+- generic: "我花了三天三夜，终于帮你们把所有主流的视频模型都测了一遍 锐评环节开始！！ #Aigc #抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 8月13日
+- generic: 00:43
+- generic: "1576"
+- generic: "AI起号信息差 两个skill接管你的工作流 #青年创作者成长计划 #新手博主 #自媒体运营 #chatgpt实战"
+- generic: "@林昭芮"
+- generic: · 8月12日
+- generic: 08:46
+- generic: 1.8万
+- generic: 如果你觉得自己压力大不妨看看最近的影视飓风
+- generic: "@柱子哥TzFilm"
+- generic: · 7月21日
+- generic: 08:54
+- generic: 12.4万
+- generic: "趁Ai真正的爆发期还没有到来，努力成为那万分之四吧 #Ai新星计划#抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 7月2日
+- generic: 03:55
+- generic: "5725"
+- generic: "我开源了自媒体Ai自审智能体！能够帮助大家合规地创作视频啦 #Ai新星计划 #Vibecoding大赏"
+- generic: "@柱子哥TzFilm"
+- generic: · 6月30日
+- paragraph: 相关搜索
+- paragraph: 柱子哥演唱作品
+- paragraph: 柱子哥话剧完整版
+- paragraph: 柱子哥 电影
+- paragraph: 柱子
+- paragraph: 柱子哥完整视频
+- paragraph: 柱子哥动画片段
+- paragraph: tzfilm
+- paragraph: 柱子哥创作的原声
+- generic: 02:10
+- generic: 1.5万
+- generic: "千问要出PersonalAgent 了，分享几个真实case #千问将推出PersonalAgent #Ai #千问Go"
+- generic: "@柱子哥TzFilm"
+- generic: · 6天前
+- generic: 12:16
+- generic: "581"
+- generic: "#青年创作者成长计划 #掘金计划2026 #燃起来了大国重器"
+- generic: "@柱子哥TzFilm"
+- generic: · 4月13日
+- generic: 05:22
+- generic: 2.3万
+- generic: "最近沉浸在AiGC中，今天聊聊此类账号的工作流和变现思路 #抖音前沿科技首发计划 #Aigc"
+- generic: "@柱子哥TzFilm"
+- generic: · 8月5日
+- generic: 01:42
+- generic: "83"
+- generic: "现在大厂工程师的分工，正在被AI Coding改写 #AI #程序员 #互联网 #大模型 #后端开发"
+- generic: "@跟着Mic学架构〈面试突围〉"
+- generic: · 18小时前
+- generic: 02:58
+- generic: "423"
+- generic: "Ai时代，我是如何获取一手信息源的？ #播客 #科技"
+- generic: "@柱子哥TzFilm"
+- generic: · 1月20日
+- generic: 05:17
+- generic: 1.5万
+- generic: "中文区最强的Ai信源搜集Skill，我爆款视频的选题全靠它 @数字生命卡兹克 #青年创作者成长计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 5月9日
+- generic: 06:12
+- generic: "2778"
+- generic: 什么职业受Ai影响为0？
+- generic: "@柱子哥TzFilm"
+- generic: · 9月7日
+- generic: 08:11
+- generic: 7.1万
+- generic: "VibeCoding变现指南：从开发，获客到交付全链路讲解 #青年创作者成长计划 #vibecoding大赏 #Ai新星计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 6月2日
+- generic: 08:06
+- generic: 2.8万
+- generic: "初始预算只有500，新手如何通过AiGC吃上饭？ 结合我最近做得AiGC的项目，聊聊我眼中对于小白玩家如何在两极分化的Ai漫剧Ai短剧赛道站稳脚跟，实现收益的正向飞轮 #青年创作者成长计划 #AI新星计划 #抖音精选App征稿中 #抖音前沿科技首发计划"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月14日
+- generic: 图文
+- generic: "170"
+- generic: "一位AI博主都在看的五位博主。最近AI教程类的视频实在是发不出去，总是说我违规，接下来可能会以分享自己的Vibe Coding的工具、AI的一些思路&好玩且有用的东西为主了。 #AI人工智能 #人工智能 #从0开始学习AI # #VibeCoding"
+- generic: "@乱乱的宝藏生活"
+- generic: · 7月23日
+- generic: muse
+- textbox
+- button "搜索":
+  - generic: 搜索
+- generic: 00:00
+- generic: /
+- generic: 03:29
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq
+- generic: 1.1万
+- generic: "105"
+- generic: "786"
+- generic: "251"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月23日
+- generic: 第67集：
+- generic: 什么是PersonalAgent的终极形态？千问给出了方向
+- generic: "#千问"
+- generic: "#云栖大会"
+- generic: 合集 · Ai
+- generic: 更新至第75集
+- generic: 00:05
+- generic: /
+- generic: 04:11
+- textbox "发一条友好的弹幕吧"
+- generic: 发送
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq
+- generic: "7236"
+- generic: "292"
+- generic: "2704"
+- generic: "893"
+- generic: "@柱子哥TzFilm"
+- generic: · 6天前
+- generic: 第74集：
+- generic: 我是如何让Muse帮我代运营海外社媒的
+- generic: "#抖音精选App征稿中"
+- generic: 合集 · Ai
+- generic: Muse的海外账号运营原理是什么
+- generic: 00:00
+- generic: /
+- generic: 08:28
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjN32ZoC90W_FXxpeck2ATV5PCQcnnHM2cSzm8SHdcGCEC3P_fxGweCSTutk3Mvqq
+- generic: "3010"
+- generic: "71"
+- generic: "732"
+- generic: "507"
+- generic: "@柱子哥TzFilm"
+- generic: · 9月18日
+- generic: 第65集：
+- generic: 摸清Ai和人脑的8个共性后，我砍掉了所有无意义的社交
+- generic: "#Ai新星计划"
+- generic: "#抖音精选app征稿中"
+- generic: "#抖音前沿科技首发计划"
+- generic: "#青年创作者成长计划"
+- generic: 合集 · Ai
+- generic: 更新至第75集
+- link "个人观点，仅供参考":
+  - /url: undefined
+  - generic: 个人观点，仅供参考

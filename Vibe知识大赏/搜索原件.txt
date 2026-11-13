@@ -1,0 +1,229 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 14":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "14"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容": Vibe知识大赏
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充值
+  - link "客户端":
+    - /url: ""
+    - paragraph: 客户端
+  - paragraph: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 综合
+- generic: 视频
+- generic: 用户
+- generic: 直播
+- generic: 多列
+- generic: 单列
+- text: 筛选
+- generic: 全部
+- generic: 博主
+- generic: 天蝎座
+- generic: 音乐
+- generic: 参赛选手
+- generic: 什么意思
+- generic: 视频
+- generic: 制作教程
+- generic: 巨蟹座
+- generic: 再见
+- generic: 相关话题
+- generic: 提示词
+- generic: 含义解释
+- generic: 教程
+- generic: 水瓶座
+- text: 为你找到以下结果，问问AI智能总结内容
+- generic: 问问AI
+- generic: 02:10
+- generic: 60.9万
+- generic: "Vibe知识大赏 | 《运气的形状》本视频由#Claude5.5 制作 #opus5.5#概率 #ai新星计划 #vibe知识大赏"
+- generic: "@Iwanau"
+- generic: · 9月28日
+- generic: 03:46
+- generic: 2.9万
+- generic: "Vibe知识大赏｜ AI 到底怎么画出一张图? #vibe知识大赏 #抖音前沿科技首发计划 #抖音精选App知识充电站 @抖音科技"
+- generic: "@浙大猫学长"
+- generic: · 10月9日
+- generic: 01:27
+- generic: 61.7万
+- generic: "Vibe知识大赏｜尼采与权力意志 跑到一半想停下，是身体在保全自己。尼采却认为，生命最深处的意志不是保全自己，而是让自己变得更强，他称之为权力意志。《查拉图斯特拉如是说》写道：人之所以伟大，在于他是一座桥，而不是终点。 #vibe知识大赏 #尼采 #权力意志 #查拉图斯特拉如是说 #哲学"
+- generic: "@叁号暗房 Logos"
+- generic: · 10月9日
+- generic: 05:56
+- generic: 13.4万
+- generic: "第一集 Vibe知识大赏｜除了中美， 还有哪些国家，造出了AI。@抖音科技 #vibe知识大赏 #ai #大模型 #deepseek 新星计划 #抖音精选app征稿中"
+- generic: "@折光AI"
+- generic: · 3天前
+- generic: 02:10
+- generic: 76.7万
+- generic: "#vibe知识大赏 人生的容错率，大到超出你的想象。 18 岁落榜，22 岁没上岸，25 岁被裁员，30 岁还没结婚——我们总以为人生是一根线，每一步都不能断。可人生其实是一张网：一条路断了，旁边会长出好几条。。 别人的人生看起来是一根线，是因为你只看见了走通的那一根。六成左右的人说，改变自己职业的，是一件没计划过的事。 超过七成的人一生中都遇到过严重的打击，大多数人都挺了过来；经历过一些挫折的人，反而更扛得住下一次。 至于那些小事，连线都没断，只是磨损。 断掉的，是一条路，不是你的人生。 你曾经以为断掉的那条路，后来把你带去了哪里？ #心理学 #成长 #人生 #认知"
+- generic: "@Nico"
+- generic: · 3天前
+- generic: 02:26
+- generic: 58.8万
+- generic: "Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技"
+- generic: "@黑洞科学馆"
+- generic: · 10月2日
+- generic: 02:26
+- generic: 70.7万
+- generic: "「Vibe知识大赏」—幸存者偏差：怎样才能做出更加正确的判断 #vibe知识大赏 @抖音科技 #opus #Claude #科普 #知识"
+- generic: "@斗转星移"
+- generic: · 10月2日
+- paragraph: 相关搜索
+- paragraph: vibe知识大赏什么意思
+- paragraph: 信息论vibe解读
+- paragraph: 来龙去脉
+- paragraph: 全抖音都在追Vibe知识大赏
+- paragraph: vibe小曲
+- paragraph: 丝绸之路
+- paragraph: 宇宙常数
+- paragraph: 熵增定律
+- generic: 01:31
+- generic: 59.4万
+- generic: "vibe知识大赏---道家 #道家思想 #道家 #热点60秒 #vibe知识大赏 #内卷化"
+- generic: "@Tomooooo"
+- generic: · 10月10日
+- generic: 02:27
+- generic: 7.0万
+- generic: "Vibe知识大赏｜为什么说风水有科学依据？四条规矩四门科学 “风水”二字出自托名郭璞的《葬书》：气乘风则散，界水则止。翻成大白话，就是挡住风、守住水。四条规矩，背后是四门科学：坐北朝南是太阳几何，北京冬至正午太阳只有 26.7° 高，夏至升到 73.5°；背山挡的是冬季风；风水先生的罗盘，让中国人比哥伦布早 400 多年记下了磁偏角；“反弓煞”背后，是爱因斯坦 1926 年用一杯茶解释的河湾冲刷。所以到了南半球，风水要反过来：坐南朝北。规矩会反过来，道理不会；至于升官发财，那部分没有依据。片中有一次投票，先猜，再看答案。 @抖音科技 #vibe知识大赏 #风水 #坐北朝南 #传统文化 #Claude"
+- generic: "@包盛和夫"
+- generic: · 10月4日
+- generic: 03:40
+- generic: 56.8万
+- generic: "vibe知识大赏｜如何像刷短视频一样对学习上瘾 #多巴胺 @比亚迪汽车海洋 #海豹08值得推家里 #vibe知识大赏"
+- generic: "@Ember余烬"
+- generic: · 10月7日
+- generic: 02:43
+- generic: 34.9万
+- generic: "「Vibe知识大赏」什么是 37% 法则？ 假设你在 100 个人里挑出最好的人，只能看一次，不能回头，什么时候该做决定？ 数学给出了最优解：37%。 但数学也算出了：就算你完美执行，仍有 63% 的几率会错过最好的。 寻找不是浪费，错过是在抬高标尺。做对了一切依然可能遗憾，那是数学的上限，不是你的失败。 遗憾有上限，勇气没有。致所有还在观察期的人。@抖音科技 #Vibe知识大赏 #人生哲学 #37法则 #创作者成长进阶计划 #自我成长"
+- generic: "@长留zero"
+- generic: · 10月1日
+- generic: 02:32
+- generic: 37.5万
+- generic: "计算机网络：你妈发的照片，此刻正在 40 vibe知识大赏 妈妈在上海按下发送，你在洛杉矶手机亮起，中间只有 0.2 秒。 这 0.2 秒里，一张照片被拆成 1600 万个 0 和 1，上锁，切成 1500 个包裹，变成电波，再变成光，潜进太平洋，在头发丝粗的玻璃里跑完一万两千公里。 我们把它放慢了 750 倍。 看完记得回个消息。 #计算机网络 #科普 #海底光缆 #vibe知识大赏 #涨知识"
+- generic: "@萧何月下"
+- generic: · 10月8日
+- generic: 09:44
+- generic: 9.4万
+- generic: "Vibe知识大赏 | 电势思想：一张图秒杀高中电学！ #高中物理#电学 #实验题 #vibe知识大赏 @抖音科技"
+- generic: "@肖三川川川"
+- generic: · 2天前
+- generic: 02:28
+- generic: 28.0万
+- generic: "Vibe知识大赏 | 社交尴尬：你没那么多观众，不妨大胆一点#vibe知识大赏 #尴尬 #claude #科普 #心理学@抖音科技"
+- generic: "@黑洞科学馆"
+- generic: · 10月5日
+- generic: 03:30
+- generic: 16.3万
+- generic: "Vibe知识大赏｜3分钟带你看懂2026诺奖：光遗传学 一束蓝光照进小鼠大脑，神经元立刻放电，胡须跟着动。这个\"光控开关\"最早藏在一颗会追光的绿藻里。3 分钟看懂 2026 年诺贝尔生理学或医学奖：光遗传学。如果有一天光能调节情绪，你会想试试看嘛？ #诺贝尔奖 #科普 #光遗传学 #诺贝尔生理学或医学奖揭晓 #vibe知识大赏 #抖音精选app陪你看诺奖"
+- generic: "@宇宙常数"
+- generic: · 10月6日
+- generic: 02:10
+- generic: 14.5万
+- generic: "Vibe知识大赏 | 钱学森弹道 钱学森弹道，就是打水漂？不是。 1728 年，牛顿设想从山顶水平开炮：快到每秒 7.9 公里，炮弹就永远落不了地；1944 年，德国人桑格尔和布雷特设计了「一跳又一跳」的跳跃弹道——这才是真正的打水漂，射程翻倍，却每次扎回大气都是一场烈火；1949 年 12 月，钱学森在纽约提出火箭客机：冲出大气，再回到大气里不跳、一路滑翔，横跨美国不到一小时。秘诀是一条方程：升力 + 离心 = 重力——飞到每秒 7 公里，重量的八成被「离心」抵掉，稀薄的空气就托得住。 不必硬碰硬，借力，顺势而行。 #vibe知识大赏 #claude #数学 #抖音精选 #ai新星计划"
+- generic: "@一点零一"
+- generic: · 6天前
+- generic: 02:09
+- generic: 10.4万
+- generic: "第7集：Vibe知识大赏｜为什么越努力，结果却越来越差#强者思维逻辑 #理性思考的底层逻辑 #Vibe #Vibe知识大赏 #哲学"
+- generic: "@暗影视界"
+- generic: · 4天前
+- generic: 02:30
+- generic: 42.3万
+- generic: 「Vibe知识大赏」 为什么我们总是对最亲近的人发脾气，对外人却很客气#Vibe知识大赏
+- generic: "@小宇"
+- generic: · 4天前
+- paragraph: 相关搜索
+- paragraph: vibe知识大赏什么意思
+- paragraph: 信息论vibe解读
+- paragraph: 来龙去脉
+- paragraph: 全抖音都在追Vibe知识大赏
+- paragraph: vibe小曲
+- paragraph: 丝绸之路
+- paragraph: 宇宙常数
+- paragraph: 熵增定律

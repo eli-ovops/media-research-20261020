@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/发布接管-20261020/receipt.json",
+    "bytes": 7499,
+    "sha256": "b1bbddf20c24d9ede5e8bbdb2951a8521232b2e1c70cd5c01ad181b90be64b3c",
+    "read": "full JSON"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/发布接管-20261020/xiaohongshu-preparation.json",
+    "bytes": 3006,
+    "sha256": "0f0ef407b416ff0337d186dc917605bf629804f6e5db030bc59cca4ff73541ed",
+    "read": "full JSON"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/发布接管-20261020/douyin-published-proof.png",
+    "bytes": 48394,
+    "sha256": "87b15bd775a9bda7f5d62f4377944478bd0495f1ef7f6ad12835464a4ce5f053",
+    "read": "actual image viewed"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/发布接管-20261020/xiaohongshu-published.png",
+    "bytes": 89105,
+    "sha256": "4cbf3e17e0d6df9d9279978e3530272a9790699d3b4605a3d922ab369e96a819",
+    "read": "actual image viewed"
+  }
+]

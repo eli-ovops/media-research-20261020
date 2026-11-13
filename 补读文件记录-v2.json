@@ -1,0 +1,97 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面01.jpg",
+      "bytes": 95757,
+      "sha256": "6707e4e3921d531689aadec7d896895eb629d860f42838c3f76868ccc178f563",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面02.jpg",
+      "bytes": 124551,
+      "sha256": "c3fac4fb93e046afd899250ff64476684acc18251e948d49fb64b101af1fb225",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面03.jpg",
+      "bytes": 117090,
+      "sha256": "11710a38a5e14990555c187fb49b7282b48fb00ced094072736297d78b21d6bb",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面04.jpg",
+      "bytes": 128387,
+      "sha256": "c5c3a8c6e5b480b8458d37393a0238e4dfe19573e1f7869794f381256b69e93c",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面05.jpg",
+      "bytes": 115941,
+      "sha256": "a86f27ab257c3b9457b81a0b181b1569ef7dd074aacf3b93c90bb8ae6cc4ed00",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面06.jpg",
+      "bytes": 119465,
+      "sha256": "7357040525b53538c4f22e6593b75d0ddb94e557fd284e0d3c138118cfea3dc7",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面07.jpg",
+      "bytes": 109354,
+      "sha256": "9662d554f59c40d09e97ef55cd3256413cf0693e77a080ed18569b93598fcae5",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse-画面08.jpg",
+      "bytes": 109665,
+      "sha256": "6c14555a7881de8c8b8e6c68a898fe48bd796897f92e93024d06a5b7e1fd3b48",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse原页DOM.txt",
+      "bytes": 15616,
+      "sha256": "4b453eac2e093eb264598ffc99520cfb24a6e6e12287a11c3cfbbadcfdd63496",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/Muse独立详情原件.txt",
+      "bytes": 34598,
+      "sha256": "11854b6613e61725beddace47f01ba49392f43e0701f5936427ac6d21c5244e9",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/补读-搜索原件.txt",
+      "bytes": 8625,
+      "sha256": "7fd87ee9ce554baeb7198e2db979546f0065f0c927589c2941f8737ef6a3f49f",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/补读-本人证据索引.json",
+      "bytes": 996,
+      "sha256": "3d1b6b81b9f4124d35abd5a9748271b824cf0b60696b4ae44788715001e50bf2",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/补读范围-v2.json",
+      "bytes": 6385,
+      "sha256": "dc62078420feab3be8a13a[REDACTED_PHONE]fb8fb96ef89c564762e910cfc115972",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/选题建议-v2.md",
+      "bytes": 8829,
+      "sha256": "4cb2bc4a300fd3f4a625fd545ac77b98f1d2856f08394b0dc1031f42d32d14ef",
+      "purpose": "v2 research delivery or required evidence; retain"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261020/主动报告发送回执-v2.json",
+      "bytes": 759,
+      "sha256": "3cbdf02413f2bea0f3ca4d923c86008e7a49ef31f5da95aa7c16bb320bf52d61",
+      "purpose": "single report attempt; delivery UNKNOWN; retain"
+    }
+  ],
+  "total_bytes": 996018,
+  "video_audio_downloads": [],
+  "cleanup": "No disposable media cache; no deletion"
+}
